@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 |Program Name | Description |
 | --- | --- |
 prog1.py | Hello world | 
-| --- | --- |
+
