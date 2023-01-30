@@ -2,6 +2,8 @@ from tkinter import ttk
 from tkinter import *
 import time
 
+## NOTE: Side-by-Side Positioning with Pack
+
 root = Tk()
 root.title('Basic sum program for 1st graders')
 width= root.winfo_screenwidth()               
