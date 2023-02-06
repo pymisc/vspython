@@ -2,6 +2,8 @@ from tkinter import *
 from tkinter import ttk
 import time
 
+# PROGRESS BAR Using tkinter
+
 root = Tk()
 root.title('Vikas')
 root.geometry("600x400")
