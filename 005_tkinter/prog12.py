@@ -1,6 +1,8 @@
 import tkinter as tk
 import random
 
+# python tkinter program to show random number 10 times with 1 second delay 
+
 class RandomNumberDisplay:
     def __init__(self, master):
         self.master = master
