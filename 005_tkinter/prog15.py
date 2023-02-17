@@ -13,11 +13,9 @@ qa_dict = {
 
 # Initialize the Tkinter window
 root = tk.Tk()
-#root.geometry("400x300")
 width= root.winfo_screenwidth()               
 height= root.winfo_screenheight()
 root.geometry("%dx%d" %(width, height))  
-
 root.title("Question and Answer")
 
 # Define the label for the question
@@ -57,8 +55,6 @@ show_answer_button.pack(pady=10)
 
 # Display the initial question
 new_question()
-
-
 
 # Start the background thread to swap to a new question every 5 seconds
 import threading
