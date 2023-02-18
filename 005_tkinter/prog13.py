@@ -42,7 +42,7 @@ class RandomNumberDisplay:
             self.label2.config(text=str(self.current_number))
             # below is the timer functionality and delay 1000 being 1 second.
             self.remaining -= 1
-            self.master.after(1000, self.show_random_number)
+            self.master.after(5000, self.show_random_number)
 
 root = tk.Tk()
 width= root.winfo_screenwidth()               
