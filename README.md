@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 prog01.py | Hello world | 
 prog02.py | Purpose |
 prog03.py | Sample progress bar |
-
+| --- | --- |
