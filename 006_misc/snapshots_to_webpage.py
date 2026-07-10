@@ -14,8 +14,6 @@ for filename in os.listdir(dir_path):
     #if filename.endswith('.jpg'):
      jpg_files.append(filename)
 
-#print(jpg_files)
-
 # create an HTML file to display the jpg files
 with open('index.html', 'w') as f:
     f.write('<html>\n')
@@ -25,3 +23,4 @@ with open('index.html', 'w') as f:
         f.write('<img src="{}" />\n'.format(jpg_file))
     f.write('</body>\n')
     f.write('</html>\n')
+
