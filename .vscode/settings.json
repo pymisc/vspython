@@ -1,3 +1,14 @@
 {
-    "python.analysis.typeCheckingMode": "off"
+    "python.analysis.typeCheckingMode": "off",
+    "yaml.schemas": {
+        "kubernetes": [
+            "**/k8s/**/*.{yaml,yml}",
+            "**/kubernetes/**/*.{yaml,yml}",
+            "**/manifests/**/*.{yaml,yml}",
+            "**/*k8s*.{yaml,yml}",
+            "**/*kube*.{yaml,yml}",
+            "**/*deploy*.{yaml,yml}",
+            "**/*service*.{yaml,yml}"
+        ]
+    }
 }
