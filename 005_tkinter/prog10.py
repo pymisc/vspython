@@ -1,5 +1,8 @@
 import tkinter as tk
 
+# Below is to keep pylinter happy
+timer_id = None
+
 # written with chatgpt's help
 # write a python tkinter program to countdown label from 15 to 1  with 1 second interval
 
