@@ -13,3 +13,9 @@ prog02.py | Purpose |
 prog03.py | Sample progress bar |
 
 This line is added in last (as of 09.25.2024).
+
+# My Python Projects
+
+[![Pylint](https://github.com/pymisc/vspython/actions/workflows/pylint.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/pylint.yml)
+
+This repository contains various Python utilities, Tkinter countdown scripts, and automation workflows.
