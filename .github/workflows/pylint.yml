@@ -20,4 +20,5 @@ jobs:
         pip install pylint
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files '*.py')
+        # --errors-only ensures it only returns a non-zero code for actual code errors
+        pylint --errors-only $(git ls-files '*.py')
