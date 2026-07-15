@@ -1,6 +1,7 @@
 {
     // This file is managed by the repo admin. 
     // Reach out if you have any questions!
+    // redhat vscode-yaml: YAML Language Support by Red Hat (used for Kubernetes YAML files)
     "recommendations": [
         "redhat.vscode-yaml",
         "ms-python.python"
