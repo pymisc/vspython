@@ -8,6 +8,9 @@ timer_id = None
 
 # Define the function to update the countdown label
 def update_countdown():
+    # Telling Python to use the global timer_id variable
+    global timer_id
+
     # Get the current value of the countdown label
     current_value = int(countdown_label["text"])
 
