@@ -1,0 +1,8 @@
+{
+    // This file is managed by the repo admin. 
+    // Reach out if you have any questions!
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "ms-python.python"
+    ]
+}
