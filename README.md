@@ -9,6 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Pylint](https://github.com/pymisc/vspython/actions/workflows/pylint.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/pylint.yml)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square)
+
+
 This repository contains various Python utilities, Tkinter countdown scripts, and automation workflows.
 
 
@@ -17,10 +22,6 @@ This repository contains various Python utilities, Tkinter countdown scripts, an
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square)
 
 ---
 
