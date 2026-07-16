@@ -25,3 +25,6 @@ This repository contains various Python utilities, Tkinter countdown scripts, an
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square)
