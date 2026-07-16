@@ -28,3 +28,6 @@ This repository contains various Python utilities, Tkinter countdown scripts, an
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square)
+
