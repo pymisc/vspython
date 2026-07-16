@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# My Python Projects
+# My Python & Kubernetes Playground
 
 [![Pylint](https://github.com/pymisc/vspython/actions/workflows/pylint.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/pylint.yml)
 
@@ -22,3 +22,6 @@ This repository contains various Python utilities, Tkinter countdown scripts, an
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square)
 
+---
+
+This repository contains Python scripts alongside local Kubernetes manifests.
