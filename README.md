@@ -1,28 +1,26 @@
-<!---
-This is comment: 
-pymisc/vspython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 # My Python & Kubernetes Playground
 
 [![Pylint](https://github.com/pymisc/vspython/actions/workflows/pylint.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/pylint.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square&color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square&color=orange)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square)
-
-
-This repository contains various Python utilities, Tkinter countdown scripts, and automation workflows.
-
-
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![GitHub language count](https://img.shields.io/github/languages/count/pymisc/vspython?style=flat-square&color=purple)
+![GitHub top language](https://img.shields.io/github/languages/top/pymisc/vspython?style=flat-square&color=yellow)
+![GitHub issues](https://img.shields.io/github/issues/pymisc/vspython?style=flat-square&color=red)
 
 ---
 
-This repository contains Python scripts alongside local Kubernetes manifests.
+### 🛠️ Technology Stack
+Keep track of the major platforms and languages utilized across this project:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📖 About
+This repository contains Python scripts, Tkinter GUI automation, and utility files alongside local Kubernetes manifests.
+
