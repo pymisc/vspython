@@ -1,5 +1,5 @@
 # test_calculator.py
-from calculator import add_numbers
+from .calculator import add_numbers
 
 def test_add_numbers():
     # Test that 2 + 3 equals 5
