@@ -1,7 +1,8 @@
 [run]
-# Force coverage to look inside files that were never executed by a test
-include = *.py, */*.py
+# Recursively find every single Python file in any folder, 
+# even if it doesn't have an __init__.py file!
+include = **/*.py
 
 [report]
-# Show files with 0% coverage in the final report instead of hiding them
+# Force the final math to include untouched files as 0%
 skip_empty = False
