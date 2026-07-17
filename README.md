@@ -3,6 +3,7 @@
 [![Pylint](https://github.com/pymisc/vspython/actions/workflows/pylint.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/pylint.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square&color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square&color=orange)
+[![codecov](https://codecov.io/gh/pymisc/vspython/graph/badge.svg?token=e7a00fb5-a511-4919-929a-15cb0149a1c7)](https://codecov.io/gh/pymisc/vspython)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/pymisc/vspython?style=flat-square&color=purple)
 ![GitHub top language](https://img.shields.io/github/languages/top/pymisc/vspython?style=flat-square&color=yellow)
@@ -23,6 +24,3 @@ Keep track of the major platforms and languages utilized across this project:
 
 ### 📖 About
 This repository contains Python scripts, Tkinter GUI automation, and utility files alongside local Kubernetes manifests.
-
-
-Code Coverage: [![codecov](https://codecov.io/gh/pymisc/vspython/graph/badge.svg?token=e7a00fb5-a511-4919-929a-15cb0149a1c7)](https://codecov.io/gh/pymisc/vspython)
