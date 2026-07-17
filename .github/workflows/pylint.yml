@@ -50,3 +50,14 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint --errors-only $(git ls-files '*.py')
+
+    # Step 5: Run your Python files to calculate coverage (New!)
+    - name: Run tests and measure coverage
+      run: |
+        pytest --cov=./ --cov-report=xml
+
+    # Step 6: Upload that coverage report to Codecov (New!)
+    - name: Upload coverage reports to Codecov
+      uses: codecov/codecov-action@v5
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
