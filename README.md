@@ -24,3 +24,5 @@ Keep track of the major platforms and languages utilized across this project:
 ### 📖 About
 This repository contains Python scripts, Tkinter GUI automation, and utility files alongside local Kubernetes manifests.
 
+
+Code Coverage: [![codecov](https://codecov.io/gh/pymisc/vspython/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/pymisc/vspython)
