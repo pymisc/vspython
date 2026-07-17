@@ -42,7 +42,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pylint psutil Pillow
+        pip install pylint psutil Pillow pytest pytest-cov
 
     # Step 4: Scan all Python files in the repo.
     # We use '--errors-only' to ignore style warnings/conventions and only fail 
