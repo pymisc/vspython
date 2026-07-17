@@ -1,0 +1,7 @@
+[run]
+# Force coverage to look inside files that were never executed by a test
+include = *.py, */*.py
+
+[report]
+# Show files with 0% coverage in the final report instead of hiding them
+skip_empty = False
