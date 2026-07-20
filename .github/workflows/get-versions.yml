@@ -33,5 +33,16 @@ jobs:
     - name: Print baseline versions
       run: |
         echo "=== EXACT VERSIONS FOR REQUIREMENTS.TXT ==="
-        # We use grep to filter the output to only show your 5 specific packages
-        pip freeze | grep -iE "^(pillow|psutil|pytest|pylint|pytest-cov)=="
+        
+        # 1. Read the file requirements.txt and remove all comments (sed 's/#.*//')
+        # 2. Strip out any existing version pins if they exist (awk -F '[=<>]')
+        # 3. Ignore empty lines and grab the raw package name (awk 'NF{print $1}')
+        PACKAGES=$(cat requirements.txt | sed 's/#.*//' | awk -F '[=<>]' '{print $1}' | awk 'NF{print $1}')
+        
+        # Generate the full freeze list once
+        pip freeze > installed_packages.txt
+        
+        # Loop through our dynamic list and find the exact installed version for each
+        for pkg in $PACKAGES; do
+          grep -i "^${pkg}==" installed_packages.txt
+        done
