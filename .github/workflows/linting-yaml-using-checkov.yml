@@ -1,0 +1,38 @@
+name: Checkov Manifest Validator for YAML Files
+
+# Run this workflow on every push or pull request to the main branch
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - 'requirements.txt'
+      - 'kubernetes/**'               # Triggers when any manifest changes
+      - '.github/workflows/checkov.yml' # Triggers when you update this workflow
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - 'requirements.txt'
+      - 'kubernetes/**'               # Triggers when any manifest changes
+      - '.github/workflows/checkov.yml' # Triggers when you update this workflow
+
+jobs:
+  validate-kubernetes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: '.python-version'
+          cache: 'pip' # Speeds up your workflow by caching dependencies
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Checkov scan
+        # The -d flag tells Checkov to scan the entire directory
+        # It will automatically find your simple_pod.yml and any future files
+        run: checkov -d kubernetes/
