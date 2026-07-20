@@ -1,0 +1,32 @@
+# ==============================================================================
+# GitHub Actions Workflow: Shell Script Linting (ShellCheck)
+# 
+# Purpose:
+#   This workflow automatically analyzes all shell scripts (.sh) in the repo
+#   for bugs, deprecated syntax, and common shell scripting pitfalls.
+# ==============================================================================
+
+name: Linting shell scripts with ShellCheck
+
+# Triggers only when shell scripts are modified
+on:
+  push:
+    paths:
+      - '**.sh'
+  pull_request:
+    paths:
+      - '**.sh'
+
+jobs:
+  lint:
+    name: Lint Shell Scripts
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Run ShellCheck
+      # ShellCheck is native to ubuntu-latest, so no installation step is needed!
+      run: |
+        shellcheck $(git ls-files '*.sh')

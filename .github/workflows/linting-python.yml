@@ -1,4 +1,4 @@
-name: Pylint
+name: Linting Python Code
 
 on:
   push:
@@ -35,4 +35,3 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint --errors-only $(git ls-files '*.py')
-        

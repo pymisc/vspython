@@ -1,4 +1,4 @@
-name: Code Coverage
+name: Code Coverage for Python Code
 
 on:
   push:
