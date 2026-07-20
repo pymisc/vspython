@@ -6,7 +6,7 @@
 #   exact resolved versions of our top-level packages. Used for freezing versions.
 # ==============================================================================
 
-name: Get Package Versions
+name: Get Python Package Versions
 
 # workflow_dispatch allows you to trigger this manually from the GitHub UI
 on: workflow_dispatch

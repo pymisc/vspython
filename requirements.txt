@@ -1,8 +1,14 @@
+###################################################################
+# NOTE: The workflow get-versions.yml can be used to report 
+# the exact versions of these dependencies getting installed 
+# during pipeline execution.
+###################################################################
+
 # --- Core Application Dependencies ---
-Pillow
-psutil
+Pillow==12.3.0     # Used by the image processing application
+psutil==7.2.2      # Used by the system monitoring application
 
 # --- Testing & Linting ---
-pytest  # Used by coverage action
-pylint  # Used by linting action
-pytest-cov
+pytest==9.1.1      # Used by coverage action
+pylint==4.0.6      # Used by linting action
+pytest-cov==7.1.0  # Used by coverage action
