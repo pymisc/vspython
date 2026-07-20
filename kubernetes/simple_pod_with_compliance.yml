@@ -9,7 +9,8 @@ metadata:
   annotations:
     # CKV2_K8S_6: This suppresses the NetworkPolicy failure. 
     # Network policies are usually managed as separate manifests, not inside the Pod.
-    checkov.skip=CKV2_K8S_6: "Network policies are applied globally at the namespace level"
+    # incorrect: checkov.skip=CKV2_K8S_6: "Network policies are applied globally at the namespace level"
+    checkov.io/skip1: "CKV2_K8S_6=Network policies are applied globally at the namespace level"
 spec:
   # CKV_K8S_38: Stop K8s from mounting a token that lets this pod talk to the K8s API
   automountServiceAccountToken: false 
