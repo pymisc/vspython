@@ -1,0 +1,37 @@
+# ==============================================================================
+# GitHub Actions Workflow: Dependency Version Reporter
+# 
+# Purpose:
+#   A manual utility to install the current requirements.txt and print out the
+#   exact resolved versions of our top-level packages. Used for freezing versions.
+# ==============================================================================
+
+name: Get Package Versions
+
+# workflow_dispatch allows you to trigger this manually from the GitHub UI
+on: workflow_dispatch
+
+jobs:
+  report-versions:
+    name: Check Current Package Versions
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: '.python-version'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Print baseline versions
+      run: |
+        echo "=== EXACT VERSIONS FOR REQUIREMENTS.TXT ==="
+        # We use grep to filter the output to only show your 5 specific packages
+        pip freeze | grep -iE "^(pillow|psutil|pytest|pylint|pytest-cov)=="
