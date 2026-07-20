@@ -1,0 +1,28 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: test-pod-netpol
+  # Must match the namespace of your Pod
+  namespace: my-app-namespace
+spec:
+  # This is the magic link. Checkov looks for this exact label match to tie 
+  # this policy to your Pod during the scan.
+  podSelector:
+    matchLabels:
+      app: test
+  
+  # Apply firewall rules to both incoming (Ingress) and outgoing (Egress) traffic
+  policyTypes:
+    - Ingress
+    - Egress
+    
+  ingress:
+    # Allow incoming TCP traffic only on the port the container is listening on
+    - ports:
+        - protocol: TCP
+          port: 8080
+          
+  egress:
+    # An empty 'to' block explicitly drops all outbound traffic. 
+    # If your pod needed to reach a database, you would define that here.
+    - to: []
