@@ -1,0 +1,67 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: test-pod
+  # CKV_K8S_21: Never deploy to the 'default' namespace
+  namespace: my-app-namespace
+  labels:
+    app: test
+  annotations:
+    # CKV2_K8S_6: This suppresses the NetworkPolicy failure. 
+    # Network policies are usually managed as separate manifests, not inside the Pod.
+    checkov.skip=CKV2_K8S_6: "Network policies are applied globally at the namespace level"
+spec:
+  # CKV_K8S_38: Stop K8s from mounting a token that lets this pod talk to the K8s API
+  automountServiceAccountToken: false 
+  
+  # CKV_K8S_29, CKV_K8S_31: Pod-level security context
+  securityContext: 
+    runAsNonRoot: true
+    runAsUser: 10001
+    seccompProfile:
+      type: RuntimeDefault
+
+  containers:
+  - name: test-container
+    # CKV_K8S_14, CKV_K8S_43: Never use 'latest'. Pin to a specific version, ideally a SHA digest.
+    # Note: Switching to the 'unprivileged' nginx image because standard nginx fails when run as non-root.
+    image: nginxinc/nginx-unprivileged@sha256:0d17b565c37bcbd895e9d92315a05c1c3c9a29f762b011a10c54a66cd53c9b31
+    ports:
+    - containerPort: 8080 # Non-root containers cannot bind to port 80
+    
+    # CKV_K8S_30: Container-level security context
+    securityContext: 
+      allowPrivilegeEscalation: false
+      readOnlyRootFilesystem: true
+      capabilities:
+        drop:
+          - ALL # CKV_K8S_28, CKV_K8S_37: Drop dangerous Linux capabilities like NET_RAW
+          
+    # CKV_K8S_10, 11, 12, 13: Prevent this pod from starving the node
+    resources: 
+      requests:
+        memory: "64Mi"
+        cpu: "100m"
+      limits:
+        memory: "128Mi"
+        cpu: "250m"
+        
+    # CKV_K8S_8, CKV_K8S_9: Let the kubelet know if the app is actually healthy
+    livenessProbe: 
+      httpGet:
+        path: /
+        port: 8080
+    readinessProbe: 
+      httpGet:
+        path: /
+        port: 8080
+        
+    # Nginx requires writable temp folders, which conflicts with readOnlyRootFilesystem.
+    # We mount ephemeral emptyDirs to satisfy both K8s security and Nginx requirements.
+    volumeMounts:
+    - mountPath: /tmp
+      name: tmp-vol
+      
+  volumes:
+  - name: tmp-vol
+    emptyDir: {}
