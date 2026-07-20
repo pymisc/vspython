@@ -1,4 +1,4 @@
-name: Pylint
+name: Code Coverage
 
 on:
   push:
@@ -13,8 +13,8 @@ on:
       - 'requirements.txt'
 
 jobs:
-  lint:
-    name: Lint Python Code
+  test-and-coverage:
+    name: Run Tests and Coverage
     runs-on: ubuntu-latest
 
     steps:
@@ -32,7 +32,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Analysing the code with pylint
+    - name: Run tests and measure coverage
       run: |
-        pylint --errors-only $(git ls-files '*.py')
-        
+        pytest . --cov --cov-report=xml
+
+    - name: Upload coverage reports to Codecov
+      uses: codecov/codecov-action@v5
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}

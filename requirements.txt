@@ -1,0 +1,7 @@
+# --- Core Application Dependencies ---
+Pillow
+psutil
+
+# --- Testing & Linting ---
+pytest  # Used by coverage action
+pylint  # Used by linting action
