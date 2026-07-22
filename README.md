@@ -1,6 +1,6 @@
 # My Python & Kubernetes Playground
 
-[![Pylint](https://github.com/pymisc/vspython/actions/workflows/pylint.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/pymisc/vspython/actions/workflows/linting-python.yml/badge.svg)](https://github.com/pymisc/vspython/actions/workflows/linting-python.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pymisc/vspython?style=flat-square&color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/pymisc/vspython?style=flat-square&color=orange)
 [![codecov](https://codecov.io/gh/pymisc/vspython/graph/badge.svg?token=e7a00fb5-a511-4919-929a-15cb0149a1c7)](https://codecov.io/gh/pymisc/vspython)
