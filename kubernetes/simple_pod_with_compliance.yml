@@ -31,7 +31,15 @@ spec:
   - name: test-container
     # CKV_K8S_14, CKV_K8S_43: Never use 'latest'. Pin to a specific version, ideally a SHA digest.
     # Note: Switching to the 'unprivileged' nginx image because standard nginx fails when run as non-root.
-    image: nginxinc/nginx-unprivileged@sha256:0d17b565c37bcbd895e9d92315a05c1c3c9a29f762b011a10c54a66cd53c9b31
+    image: nginxinc/nginx-unprivileged@sha256:90d82b3358df5758b3c57d20f2565082ce6f744906e7dc09afd0096c1b8eb2b5
+    # Quick note: There are chances that above SHA256 digest may not be available next time we run this manifest.
+    # You can find the latest version of the image by running the following command:
+    # Below is to run and find the lastest version of the unprivileged nginx image. 
+    # Uncomment to use, but it will fail CKV_K8S_14, CKV_K8S_43.
+    # image: nginxinc/nginx-unprivileged:alpine-slim
+    # Now find the SHA256 digest of the latest version of the image:
+    # kubectl get pod test-pod -n my-app-namespace -o jsonpath="{.status.containerStatuses[0].imageID}"
+
     ports:
     - containerPort: 8080 # Non-root containers cannot bind to port 80
     
