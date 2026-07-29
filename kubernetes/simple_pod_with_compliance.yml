@@ -65,10 +65,14 @@ spec:
       httpGet:
         path: /
         port: 8080
+      initialDelaySeconds: 3 # Added delay
+      periodSeconds: 10      # default is 10 seconds, but we can make it explicit
     readinessProbe: 
       httpGet:
         path: /
         port: 8080
+      initialDelaySeconds: 3 # Added delay
+      periodSeconds: 10      # default is 10 seconds, but we can make it explicit
         
     # Nginx requires writable temp folders, which conflicts with readOnlyRootFilesystem.
     # We mount ephemeral emptyDirs to satisfy both K8s security and Nginx requirements.
@@ -78,4 +82,5 @@ spec:
       
   volumes:
   - name: tmp-vol
-    emptyDir: {}
+    emptyDir:
+      sizeLimit: 128Mi # To prevent node disk exhaustion
