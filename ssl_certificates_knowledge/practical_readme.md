@@ -167,11 +167,20 @@ another application.
 
 ## Related Detailed Guide
 
-See the main `README.md` in this directory for the command-by-command
-procedure covering Certbot installation using Snap, AWS/Route 53
-permissions and validation, wildcard certificate creation, Apache
-HTTPS/reverse-proxy configuration, renewal testing, Apache reload
-behavior, troubleshooting, and security considerations.
+For the complete command-by-command procedure, see:
+
+➡️ **[Let's Encrypt / Certbot Detailed Setup Guide](README.md)**
+
+The detailed guide covers:
+
+- Certbot installation using Snap
+- AWS / Route 53 permissions and validation
+- Let's Encrypt wildcard certificate creation
+- Apache HTTPS and reverse-proxy configuration
+- Certificate inspection and validation
+- Automatic certificate renewal
+- Apache reload behavior
+- Troubleshooting and security considerations
 
 ------------------------------------------------------------------------
 
