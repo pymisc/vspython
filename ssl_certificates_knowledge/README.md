@@ -839,3 +839,11 @@ The application's ordinary DNS `A`/`AAAA`/`CNAME` record and the ACME
 DNS-01 challenge serve different purposes: **DNS locates the service;
 DNS-01 proves domain control for certificate issuance; TLS then provides
 authenticated, encrypted communication.**
+
+## Visual / Practical Walkthrough
+
+For a diagram-based explanation of how DNS, Let's Encrypt, Certbot,
+Route 53, Apache TLS termination, application proxying, and automatic
+certificate renewal fit together, see:
+
+➡️ [Practical Visual Guide](practical_readme.md)
