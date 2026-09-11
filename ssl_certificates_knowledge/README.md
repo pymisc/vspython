@@ -193,6 +193,7 @@ The Certbot Route 53 plugin needs permissions including:
 
 ``` text
 route53:ListHostedZones
+route53:ListHostedZonesByName
 route53:GetChange
 route53:ChangeResourceRecordSets
 ```
@@ -210,6 +211,7 @@ Example:
       "Effect": "Allow",
       "Action": [
         "route53:ListHostedZones",
+        "route53:ListHostedZonesByName",
         "route53:GetChange"
       ],
       "Resource": "*"
