@@ -975,7 +975,15 @@ This should be treated as a **future learning enhancement**, not as something re
 
 ---
 
-## 25. Key takeaway
+## 25. Architecture Diagram
+
+The following diagram summarizes the complete request flow from the Windows client through Apache, the Kubernetes ingress controller, the Argo CD Ingress resource, and finally the Argo CD server pod.
+
+![Argo CD Ingress Architecture](./user_to_argocd_connectivity.png)
+
+---
+
+## 26. Key takeaway
 
 The final architecture has moved from **direct application exposure** to a proper **Ingress-based routing model**.
 
