@@ -1,881 +1,881 @@
-university,entry_year,residency,four_year_tuition_USD,years_covered
-MIT,2000,in_state,110440,4
-MIT,2000,out_of_state,110440,4
-MIT,2001,in_state,114990,4
-MIT,2001,out_of_state,114990,4
-MIT,2002,in_state,120130,4
-MIT,2002,out_of_state,120130,4
-MIT,2003,in_state,125500,4
-MIT,2003,out_of_state,125500,4
-MIT,2004,in_state,130850,4
-MIT,2004,out_of_state,130850,4
-MIT,2005,in_state,136390,4
-MIT,2005,out_of_state,136390,4
-MIT,2006,in_state,141800,4
-MIT,2006,out_of_state,141800,4
-MIT,2007,in_state,147340,4
-MIT,2007,out_of_state,147340,4
-MIT,2008,in_state,153050,4
-MIT,2008,out_of_state,153050,4
-MIT,2009,in_state,158680,4
-MIT,2009,out_of_state,158680,4
-MIT,2010,in_state,164380,4
-MIT,2010,out_of_state,164380,4
-MIT,2011,in_state,170160,4
-MIT,2011,out_of_state,170160,4
-MIT,2012,in_state,176100,4
-MIT,2012,out_of_state,176100,4
-MIT,2013,in_state,182470,4
-MIT,2013,out_of_state,182470,4
-MIT,2014,in_state,188840,4
-MIT,2014,out_of_state,188840,4
-MIT,2015,in_state,195640,4
-MIT,2015,out_of_state,195640,4
-MIT,2016,in_state,202690,4
-MIT,2016,out_of_state,202690,4
-MIT,2017,in_state,208000,4
-MIT,2017,out_of_state,208000,4
-MIT,2018,in_state,213930,4
-MIT,2018,out_of_state,213930,4
-MIT,2019,in_state,220000,4
-MIT,2019,out_of_state,220000,4
-MIT,2020,in_state,226300,4
-MIT,2020,out_of_state,226300,4
-MIT,2021,in_state,,3
-MIT,2021,out_of_state,,3
-Stanford,2000,in_state,106125,4
-Stanford,2000,out_of_state,106125,4
-Stanford,2001,in_state,111531,4
-Stanford,2001,out_of_state,111531,4
-Stanford,2002,in_state,116814,4
-Stanford,2002,out_of_state,116814,4
-Stanford,2003,in_state,122604,4
-Stanford,2003,out_of_state,122604,4
-Stanford,2004,in_state,128841,4
-Stanford,2004,out_of_state,128841,4
-Stanford,2005,in_state,135024,4
-Stanford,2005,out_of_state,135024,4
-Stanford,2006,in_state,141204,4
-Stanford,2006,out_of_state,141204,4
-Stanford,2007,in_state,146910,4
-Stanford,2007,out_of_state,146910,4
-Stanford,2008,in_state,152160,4
-Stanford,2008,out_of_state,152160,4
-Stanford,2009,in_state,157380,4
-Stanford,2009,out_of_state,157380,4
-Stanford,2010,in_state,162690,4
-Stanford,2010,out_of_state,162690,4
-Stanford,2011,in_state,168174,4
-Stanford,2011,out_of_state,168174,4
-Stanford,2012,in_state,173853,4
-Stanford,2012,out_of_state,173853,4
-Stanford,2013,in_state,179934,4
-Stanford,2013,out_of_state,179934,4
-Stanford,2014,in_state,186231,4
-Stanford,2014,out_of_state,186231,4
-Stanford,2015,in_state,192750,4
-Stanford,2015,out_of_state,192750,4
-Stanford,2016,in_state,199878,4
-Stanford,2016,out_of_state,199878,4
-Stanford,2017,in_state,208020,4
-Stanford,2017,out_of_state,208020,4
-Stanford,2018,in_state,214506,4
-Stanford,2018,out_of_state,214506,4
-Stanford,2019,in_state,221496,4
-Stanford,2019,out_of_state,221496,4
-Stanford,2020,in_state,230370,4
-Stanford,2020,out_of_state,230370,4
-Stanford,2021,in_state,,3
-Stanford,2021,out_of_state,,3
-Carnegie Mellon,2000,in_state,105946,4
-Carnegie Mellon,2000,out_of_state,105946,4
-Carnegie Mellon,2001,in_state,111996,4
-Carnegie Mellon,2001,out_of_state,111996,4
-Carnegie Mellon,2002,in_state,117976,4
-Carnegie Mellon,2002,out_of_state,117976,4
-Carnegie Mellon,2003,in_state,124116,4
-Carnegie Mellon,2003,out_of_state,124116,4
-Carnegie Mellon,2004,in_state,130930,4
-Carnegie Mellon,2004,out_of_state,130930,4
-Carnegie Mellon,2005,in_state,138710,4
-Carnegie Mellon,2005,out_of_state,138710,4
-Carnegie Mellon,2006,in_state,146530,4
-Carnegie Mellon,2006,out_of_state,146530,4
-Carnegie Mellon,2007,in_state,154980,4
-Carnegie Mellon,2007,out_of_state,154980,4
-Carnegie Mellon,2008,in_state,162560,4
-Carnegie Mellon,2008,out_of_state,162560,4
-Carnegie Mellon,2009,in_state,169010,4
-Carnegie Mellon,2009,out_of_state,169010,4
-Carnegie Mellon,2010,in_state,176210,4
-Carnegie Mellon,2010,out_of_state,176210,4
-Carnegie Mellon,2011,in_state,182740,4
-Carnegie Mellon,2011,out_of_state,182740,4
-Carnegie Mellon,2012,in_state,189190,4
-Carnegie Mellon,2012,out_of_state,189190,4
-Carnegie Mellon,2013,in_state,195506,4
-Carnegie Mellon,2013,out_of_state,195506,4
-Carnegie Mellon,2014,in_state,201568,4
-Carnegie Mellon,2014,out_of_state,201568,4
-Carnegie Mellon,2015,in_state,207782,4
-Carnegie Mellon,2015,out_of_state,207782,4
-Carnegie Mellon,2016,in_state,213988,4
-Carnegie Mellon,2016,out_of_state,213988,4
-Carnegie Mellon,2017,in_state,220352,4
-Carnegie Mellon,2017,out_of_state,220352,4
-Carnegie Mellon,2018,in_state,225180,4
-Carnegie Mellon,2018,out_of_state,225180,4
-Carnegie Mellon,2019,in_state,230800,4
-Carnegie Mellon,2019,out_of_state,230800,4
-Carnegie Mellon,2020,in_state,237244,4
-Carnegie Mellon,2020,out_of_state,237244,4
-Carnegie Mellon,2021,in_state,,3
-Carnegie Mellon,2021,out_of_state,,3
-Princeton,2000,in_state,107360,4
-Princeton,2000,out_of_state,107360,4
-Princeton,2001,in_state,111840,4
-Princeton,2001,out_of_state,111840,4
-Princeton,2002,in_state,117130,4
-Princeton,2002,out_of_state,117130,4
-Princeton,2003,in_state,122900,4
-Princeton,2003,out_of_state,122900,4
-Princeton,2004,in_state,127360,4
-Princeton,2004,out_of_state,127360,4
-Princeton,2005,in_state,131740,4
-Princeton,2005,out_of_state,131740,4
-Princeton,2006,in_state,135630,4
-Princeton,2006,out_of_state,135630,4
-Princeton,2007,in_state,139270,4
-Princeton,2007,out_of_state,139270,4
-Princeton,2008,in_state,143270,4
-Princeton,2008,out_of_state,143270,4
-Princeton,2009,in_state,147630,4
-Princeton,2009,out_of_state,147630,4
-Princeton,2010,in_state,152460,4
-Princeton,2010,out_of_state,152460,4
-Princeton,2011,in_state,157640,4
-Princeton,2011,out_of_state,157640,4
-Princeton,2012,in_state,164090,4
-Princeton,2012,out_of_state,164090,4
-Princeton,2013,in_state,170740,4
-Princeton,2013,out_of_state,170740,4
-Princeton,2014,in_state,177710,4
-Princeton,2014,out_of_state,177710,4
-Princeton,2015,in_state,185340,4
-Princeton,2015,out_of_state,185340,4
-Princeton,2016,in_state,193760,4
-Princeton,2016,out_of_state,193760,4
-Princeton,2017,in_state,196962,4
-Princeton,2017,out_of_state,196962,4
-Princeton,2018,in_state,205832,4
-Princeton,2018,out_of_state,205832,4
-Princeton,2019,in_state,213792,4
-Princeton,2019,out_of_state,213792,4
-Princeton,2020,in_state,221632,4
-Princeton,2020,out_of_state,221632,4
-Princeton,2021,in_state,,3
-Princeton,2021,out_of_state,,3
-Cornell,2000,in_state,106630,4
-Cornell,2000,out_of_state,106630,4
-Cornell,2001,in_state,111870,4
-Cornell,2001,out_of_state,111870,4
-Cornell,2002,in_state,117200,4
-Cornell,2002,out_of_state,117200,4
-Cornell,2003,in_state,122730,4
-Cornell,2003,out_of_state,122730,4
-Cornell,2004,in_state,128700,4
-Cornell,2004,out_of_state,128700,4
-Cornell,2005,in_state,135000,4
-Cornell,2005,out_of_state,135000,4
-Cornell,2006,in_state,141450,4
-Cornell,2006,out_of_state,141450,4
-Cornell,2007,in_state,148100,4
-Cornell,2007,out_of_state,148100,4
-Cornell,2008,in_state,154825,4
-Cornell,2008,out_of_state,154825,4
-Cornell,2009,in_state,161710,4
-Cornell,2009,out_of_state,161710,4
-Cornell,2010,in_state,169090,4
-Cornell,2010,out_of_state,169090,4
-Cornell,2011,in_state,176690,4
-Cornell,2011,out_of_state,176690,4
-Cornell,2012,in_state,184245,4
-Cornell,2012,out_of_state,184245,4
-Cornell,2013,in_state,191772,4
-Cornell,2013,out_of_state,191772,4
-Cornell,2014,in_state,199254,4
-Cornell,2014,out_of_state,199254,4
-Cornell,2015,in_state,206788,4
-Cornell,2015,out_of_state,206788,4
-Cornell,2016,in_state,214458,4
-Cornell,2016,out_of_state,214458,4
-Cornell,2017,in_state,222332,4
-Cornell,2017,out_of_state,222332,4
-Cornell,2018,in_state,230006,4
-Cornell,2018,out_of_state,230006,4
-Cornell,2019,in_state,237878,4
-Cornell,2019,out_of_state,237878,4
-Cornell,2020,in_state,246532,4
-Cornell,2020,out_of_state,246532,4
-Cornell,2021,in_state,,3
-Cornell,2021,out_of_state,,3
-Caltech,2000,in_state,86451,4
-Caltech,2000,out_of_state,86451,4
-Caltech,2001,in_state,92043,4
-Caltech,2001,out_of_state,92043,4
-Caltech,2002,in_state,98448,4
-Caltech,2002,out_of_state,98448,4
-Caltech,2003,in_state,105060,4
-Caltech,2003,out_of_state,105060,4
-Caltech,2004,in_state,111099,4
-Caltech,2004,out_of_state,111099,4
-Caltech,2005,in_state,117201,4
-Caltech,2005,out_of_state,117201,4
-Caltech,2006,in_state,123216,4
-Caltech,2006,out_of_state,123216,4
-Caltech,2007,in_state,129690,4
-Caltech,2007,out_of_state,129690,4
-Caltech,2008,in_state,136137,4
-Caltech,2008,out_of_state,136137,4
-Caltech,2009,in_state,142785,4
-Caltech,2009,out_of_state,142785,4
-Caltech,2010,in_state,149451,4
-Caltech,2010,out_of_state,149451,4
-Caltech,2011,in_state,156252,4
-Caltech,2011,out_of_state,156252,4
-Caltech,2012,in_state,163575,4
-Caltech,2012,out_of_state,163575,4
-Caltech,2013,in_state,171336,4
-Caltech,2013,out_of_state,171336,4
-Caltech,2014,in_state,179457,4
-Caltech,2014,out_of_state,179457,4
-Caltech,2015,in_state,188154,4
-Caltech,2015,out_of_state,188154,4
-Caltech,2016,in_state,196950,4
-Caltech,2016,out_of_state,196950,4
-Caltech,2017,in_state,205674,4
-Caltech,2017,out_of_state,205674,4
-Caltech,2018,in_state,213927,4
-Caltech,2018,out_of_state,213927,4
-Caltech,2019,in_state,221919,4
-Caltech,2019,out_of_state,221919,4
-Caltech,2020,in_state,230229,4
-Caltech,2020,out_of_state,230229,4
-Caltech,2021,in_state,,3
-Caltech,2021,out_of_state,,3
-Harvard,2000,in_state,96847,4
-Harvard,2000,out_of_state,96847,4
-Harvard,2001,in_state,101601,4
-Harvard,2001,out_of_state,101601,4
-Harvard,2002,in_state,106896,4
-Harvard,2002,out_of_state,106896,4
-Harvard,2003,in_state,112541,4
-Harvard,2003,out_of_state,112541,4
-Harvard,2004,in_state,117931,4
-Harvard,2004,out_of_state,117931,4
-Harvard,2005,in_state,123040,4
-Harvard,2005,out_of_state,123040,4
-Harvard,2006,in_state,127984,4
-Harvard,2006,out_of_state,127984,4
-Harvard,2007,in_state,132685,4
-Harvard,2007,out_of_state,132685,4
-Harvard,2008,in_state,137534,4
-Harvard,2008,out_of_state,137534,4
-Harvard,2009,in_state,142553,4
-Harvard,2009,out_of_state,142553,4
-Harvard,2010,in_state,147748,4
-Harvard,2010,out_of_state,147748,4
-Harvard,2011,in_state,153190,4
-Harvard,2011,out_of_state,153190,4
-Harvard,2012,in_state,158517,4
-Harvard,2012,out_of_state,158517,4
-Harvard,2013,in_state,164221,4
-Harvard,2013,out_of_state,164221,4
-Harvard,2014,in_state,170320,4
-Harvard,2014,out_of_state,170320,4
-Harvard,2015,in_state,176242,4
-Harvard,2015,out_of_state,176242,4
-Harvard,2016,in_state,182340,4
-Harvard,2016,out_of_state,182340,4
-Harvard,2017,in_state,188713,4
-Harvard,2017,out_of_state,188713,4
-Harvard,2018,in_state,194866,4
-Harvard,2018,out_of_state,194866,4
-Harvard,2019,in_state,201185,4
-Harvard,2019,out_of_state,201185,4
-Harvard,2020,in_state,207724,4
-Harvard,2020,out_of_state,207724,4
-Harvard,2021,in_state,,3
-Harvard,2021,out_of_state,,3
-Columbia,2000,in_state,106710,4
-Columbia,2000,out_of_state,106710,4
-Columbia,2001,in_state,111926,4
-Columbia,2001,out_of_state,111926,4
-Columbia,2002,in_state,118060,4
-Columbia,2002,out_of_state,118060,4
-Columbia,2003,in_state,124534,4
-Columbia,2003,out_of_state,124534,4
-Columbia,2004,in_state,131364,4
-Columbia,2004,out_of_state,131364,4
-Columbia,2005,in_state,138574,4
-Columbia,2005,out_of_state,138574,4
-Columbia,2006,in_state,145946,4
-Columbia,2006,out_of_state,145946,4
-Columbia,2007,in_state,153442,4
-Columbia,2007,out_of_state,153442,4
-Columbia,2008,in_state,161014,4
-Columbia,2008,out_of_state,161014,4
-Columbia,2009,in_state,168572,4
-Columbia,2009,out_of_state,168572,4
-Columbia,2010,in_state,176122,4
-Columbia,2010,out_of_state,176122,4
-Columbia,2011,in_state,183608,4
-Columbia,2011,out_of_state,183608,4
-Columbia,2012,in_state,191046,4
-Columbia,2012,out_of_state,191046,4
-Columbia,2013,in_state,193460,4
-Columbia,2013,out_of_state,193460,4
-Columbia,2014,in_state,195603,4
-Columbia,2014,out_of_state,195603,4
-Columbia,2015,in_state,197622,4
-Columbia,2015,out_of_state,197622,4
-Columbia,2016,in_state,204859,4
-Columbia,2016,out_of_state,204859,4
-Columbia,2017,in_state,215281,4
-Columbia,2017,out_of_state,215281,4
-Columbia,2018,in_state,225742,4
-Columbia,2018,out_of_state,225742,4
-Columbia,2019,in_state,237066,4
-Columbia,2019,out_of_state,237066,4
-Columbia,2020,in_state,243829,4
-Columbia,2020,out_of_state,243829,4
-Columbia,2021,in_state,,3
-Columbia,2021,out_of_state,,3
-Penn,2000,in_state,98040,4
-Penn,2000,out_of_state,98040,4
-Penn,2001,in_state,102902,4
-Penn,2001,out_of_state,102902,4
-Penn,2002,in_state,107934,4
-Penn,2002,out_of_state,107934,4
-Penn,2003,in_state,113454,4
-Penn,2003,out_of_state,113454,4
-Penn,2004,in_state,119332,4
-Penn,2004,out_of_state,119332,4
-Penn,2005,in_state,125396,4
-Penn,2005,out_of_state,125396,4
-Penn,2006,in_state,131234,4
-Penn,2006,out_of_state,131234,4
-Penn,2007,in_state,136844,4
-Penn,2007,out_of_state,136844,4
-Penn,2008,in_state,142304,4
-Penn,2008,out_of_state,142304,4
-Penn,2009,in_state,147784,4
-Penn,2009,out_of_state,147784,4
-Penn,2010,in_state,153510,4
-Penn,2010,out_of_state,153510,4
-Penn,2011,in_state,159478,4
-Penn,2011,out_of_state,159478,4
-Penn,2012,in_state,165696,4
-Penn,2012,out_of_state,165696,4
-Penn,2013,in_state,172164,4
-Penn,2013,out_of_state,172164,4
-Penn,2014,in_state,178986,4
-Penn,2014,out_of_state,178986,4
-Penn,2015,in_state,186030,4
-Penn,2015,out_of_state,186030,4
-Penn,2016,in_state,193348,4
-Penn,2016,out_of_state,193348,4
-Penn,2017,in_state,200958,4
-Penn,2017,out_of_state,200958,4
-Penn,2018,in_state,208194,4
-Penn,2018,out_of_state,208194,4
-Penn,2019,in_state,215186,4
-Penn,2019,out_of_state,215186,4
-Penn,2020,in_state,222650,4
-Penn,2020,out_of_state,222650,4
-Penn,2021,in_state,,3
-Penn,2021,out_of_state,,3
-Johns Hopkins,2000,in_state,107260,4
-Johns Hopkins,2000,out_of_state,107260,4
-Johns Hopkins,2001,in_state,112470,4
-Johns Hopkins,2001,out_of_state,112470,4
-Johns Hopkins,2002,in_state,117880,4
-Johns Hopkins,2002,out_of_state,117880,4
-Johns Hopkins,2003,in_state,124390,4
-Johns Hopkins,2003,out_of_state,124390,4
-Johns Hopkins,2004,in_state,131560,4
-Johns Hopkins,2004,out_of_state,131560,4
-Johns Hopkins,2005,in_state,139120,4
-Johns Hopkins,2005,out_of_state,139120,4
-Johns Hopkins,2006,in_state,146650,4
-Johns Hopkins,2006,out_of_state,146650,4
-Johns Hopkins,2007,in_state,153430,4
-Johns Hopkins,2007,out_of_state,153430,4
-Johns Hopkins,2008,in_state,159810,4
-Johns Hopkins,2008,out_of_state,159810,4
-Johns Hopkins,2009,in_state,165500,4
-Johns Hopkins,2009,out_of_state,165500,4
-Johns Hopkins,2010,in_state,171820,4
-Johns Hopkins,2010,out_of_state,171820,4
-Johns Hopkins,2011,in_state,178200,4
-Johns Hopkins,2011,out_of_state,178200,4
-Johns Hopkins,2012,in_state,184630,4
-Johns Hopkins,2012,out_of_state,184630,4
-Johns Hopkins,2013,in_state,191650,4
-Johns Hopkins,2013,out_of_state,191650,4
-Johns Hopkins,2014,in_state,198350,4
-Johns Hopkins,2014,out_of_state,198350,4
-Johns Hopkins,2015,in_state,205030,4
-Johns Hopkins,2015,out_of_state,205030,4
-Johns Hopkins,2016,in_state,211670,4
-Johns Hopkins,2016,out_of_state,211670,4
-Johns Hopkins,2017,in_state,215420,4
-Johns Hopkins,2017,out_of_state,215420,4
-Johns Hopkins,2018,in_state,221970,4
-Johns Hopkins,2018,out_of_state,221970,4
-Johns Hopkins,2019,in_state,228710,4
-Johns Hopkins,2019,out_of_state,228710,4
-Johns Hopkins,2020,in_state,236200,4
-Johns Hopkins,2020,out_of_state,236200,4
-Johns Hopkins,2021,in_state,,3
-Johns Hopkins,2021,out_of_state,,3
-UC Berkeley,2000,in_state,0,4
-UC Berkeley,2000,out_of_state,46687,4
-UC Berkeley,2001,in_state,0,4
-UC Berkeley,2001,out_of_state,52919,4
-UC Berkeley,2002,in_state,0,4
-UC Berkeley,2002,out_of_state,59519,4
-UC Berkeley,2003,in_state,0,4
-UC Berkeley,2003,out_of_state,65678,4
-UC Berkeley,2004,in_state,0,4
-UC Berkeley,2004,out_of_state,71016,4
-UC Berkeley,2005,in_state,0,4
-UC Berkeley,2005,out_of_state,74561,4
-UC Berkeley,2006,in_state,7533,4
-UC Berkeley,2006,out_of_state,87507,4
-UC Berkeley,2007,in_state,16935,4
-UC Berkeley,2007,out_of_state,101620,4
-UC Berkeley,2008,in_state,28155,4
-UC Berkeley,2008,out_of_state,116650,4
-UC Berkeley,2009,in_state,39375,4
-UC Berkeley,2009,out_of_state,130727,4
-UC Berkeley,2010,in_state,43062,4
-UC Berkeley,2010,out_of_state,134575,4
-UC Berkeley,2011,in_state,44880,4
-UC Berkeley,2011,out_of_state,136392,4
-UC Berkeley,2012,in_state,44880,4
-UC Berkeley,2012,out_of_state,138222,4
-UC Berkeley,2013,in_state,44880,4
-UC Berkeley,2013,out_of_state,142026,4
-UC Berkeley,2014,in_state,45162,4
-UC Berkeley,2014,out_of_state,147444,4
-UC Berkeley,2015,in_state,45384,4
-UC Berkeley,2015,out_of_state,153780,4
-UC Berkeley,2016,in_state,45606,4
-UC Berkeley,2016,out_of_state,159048,4
-UC Berkeley,2017,in_state,45828,4
-UC Berkeley,2017,out_of_state,162342,4
-UC Berkeley,2018,in_state,45768,4
-UC Berkeley,2018,out_of_state,164022,4
-UC Berkeley,2019,in_state,45890,4
-UC Berkeley,2019,out_of_state,165224,4
-UC Berkeley,2020,in_state,46282,4
-UC Berkeley,2020,out_of_state,166639,4
-UC Berkeley,2021,in_state,,3
-UC Berkeley,2021,out_of_state,,3
-Georgia Tech,2000,in_state,11136,4
-Georgia Tech,2000,out_of_state,49846,4
-Georgia Tech,2001,in_state,11998,4
-Georgia Tech,2001,out_of_state,56470,4
-Georgia Tech,2002,in_state,13004,4
-Georgia Tech,2002,out_of_state,62922,4
-Georgia Tech,2003,in_state,14106,4
-Georgia Tech,2003,out_of_state,69000,4
-Georgia Tech,2004,in_state,15057,4
-Georgia Tech,2004,out_of_state,74419,4
-Georgia Tech,2005,in_state,16084,4
-Georgia Tech,2005,out_of_state,81769,4
-Georgia Tech,2006,in_state,17275,4
-Georgia Tech,2006,out_of_state,86223,4
-Georgia Tech,2007,in_state,19256,4
-Georgia Tech,2007,out_of_state,91180,4
-Georgia Tech,2008,in_state,21773,4
-Georgia Tech,2008,out_of_state,95746,4
-Georgia Tech,2009,in_state,25096,4
-Georgia Tech,2009,out_of_state,98770,4
-Georgia Tech,2010,in_state,28525,4
-Georgia Tech,2010,out_of_state,103898,4
-Georgia Tech,2011,in_state,31654,4
-Georgia Tech,2011,out_of_state,108009,4
-Georgia Tech,2012,in_state,34790,4
-Georgia Tech,2012,out_of_state,112894,4
-Georgia Tech,2013,in_state,36884,4
-Georgia Tech,2013,out_of_state,115876,4
-Georgia Tech,2014,in_state,38634,4
-Georgia Tech,2014,out_of_state,118918,4
-Georgia Tech,2015,in_state,39640,4
-Georgia Tech,2015,out_of_state,121216,4
-Georgia Tech,2016,in_state,40086,4
-Georgia Tech,2016,out_of_state,122582,4
-Georgia Tech,2017,in_state,40532,4
-Georgia Tech,2017,out_of_state,123948,4
-Georgia Tech,2018,in_state,40782,4
-Georgia Tech,2018,out_of_state,124714,4
-Georgia Tech,2019,in_state,41032,4
-Georgia Tech,2019,out_of_state,125480,4
-Georgia Tech,2020,in_state,41032,4
-Georgia Tech,2020,out_of_state,125480,4
-Georgia Tech,2021,in_state,,3
-Georgia Tech,2021,out_of_state,,3
-UIUC,2000,in_state,19004,4
-UIUC,2000,out_of_state,53912,4
-UIUC,2001,in_state,21740,4
-UIUC,2001,out_of_state,62120,4
-UIUC,2002,in_state,24372,4
-UIUC,2002,out_of_state,71018,4
-UIUC,2003,in_state,26778,4
-UIUC,2003,out_of_state,78906,4
-UIUC,2004,in_state,29650,4
-UIUC,2004,out_of_state,84828,4
-UIUC,2005,in_state,32432,4
-UIUC,2005,out_of_state,88474,4
-UIUC,2006,in_state,34874,4
-UIUC,2006,out_of_state,90972,4
-UIUC,2007,in_state,38169,4
-UIUC,2007,out_of_state,95308,4
-UIUC,2008,in_state,41576,4
-UIUC,2008,out_of_state,100001,4
-UIUC,2009,in_state,44937,4
-UIUC,2009,out_of_state,105205,4
-UIUC,2010,in_state,48747,4
-UIUC,2010,out_of_state,110606,4
-UIUC,2011,in_state,51519,4
-UIUC,2011,out_of_state,114113,4
-UIUC,2012,in_state,53740,4
-UIUC,2012,out_of_state,117098,4
-UIUC,2013,in_state,55299,4
-UIUC,2013,out_of_state,119857,4
-UIUC,2014,in_state,56260,4
-UIUC,2014,out_of_state,122511,4
-UIUC,2015,in_state,56708,4
-UIUC,2015,out_of_state,125213,4
-UIUC,2016,in_state,56828,4
-UIUC,2016,out_of_state,128136,4
-UIUC,2017,in_state,56983,4
-UIUC,2017,out_of_state,130971,4
-UIUC,2018,in_state,57174,4
-UIUC,2018,out_of_state,133734,4
-UIUC,2019,in_state,57493,4
-UIUC,2019,out_of_state,136517,4
-UIUC,2020,in_state,58073,4
-UIUC,2020,out_of_state,139290,4
-UIUC,2021,in_state,,3
-UIUC,2021,out_of_state,,3
-UT Austin,2000,in_state,10320,4
-UT Austin,2000,out_of_state,36720,4
-UT Austin,2001,in_state,12180,4
-UT Austin,2001,out_of_state,40830,4
-UT Austin,2002,in_state,16632,4
-UT Austin,2002,out_of_state,48290,4
-UT Austin,2003,in_state,21622,4
-UT Austin,2003,out_of_state,59474,4
-UT Austin,2004,in_state,26532,4
-UT Austin,2004,out_of_state,74178,4
-UT Austin,2005,in_state,30804,4
-UT Austin,2005,out_of_state,88978,4
-UT Austin,2006,in_state,32768,4
-UT Austin,2006,out_of_state,102574,4
-UT Austin,2007,in_state,34556,4
-UT Austin,2007,out_of_state,113428,4
-UT Austin,2008,in_state,36680,4
-UT Austin,2008,out_of_state,121390,4
-UT Austin,2009,in_state,37938,4
-UT Austin,2009,out_of_state,126758,4
-UT Austin,2010,in_state,38800,4
-UT Austin,2010,out_of_state,130694,4
-UT Austin,2011,in_state,39212,4
-UT Austin,2011,out_of_state,134312,4
-UT Austin,2012,in_state,39224,4
-UT Austin,2012,out_of_state,136482,4
-UT Austin,2013,in_state,39526,4
-UT Austin,2013,out_of_state,139036,4
-UT Austin,2014,in_state,40126,4
-UT Austin,2014,out_of_state,141938,4
-UT Austin,2015,in_state,40906,4
-UT Austin,2015,out_of_state,144682,4
-UT Austin,2016,in_state,41924,4
-UT Austin,2016,out_of_state,148332,4
-UT Austin,2017,in_state,43280,4
-UT Austin,2017,out_of_state,152682,4
-UT Austin,2018,in_state,44634,4
-UT Austin,2018,out_of_state,156934,4
-UT Austin,2019,in_state,45722,4
-UT Austin,2019,out_of_state,160424,4
-UT Austin,2020,in_state,46576,4
-UT Austin,2020,out_of_state,164876,4
-UT Austin,2021,in_state,,3
-UT Austin,2021,out_of_state,,3
-U Washington,2000,in_state,15856,4
-U Washington,2000,out_of_state,54828,4
-U Washington,2001,in_state,16988,4
-U Washington,2001,out_of_state,60168,4
-U Washington,2002,in_state,18498,4
-U Washington,2002,out_of_state,67279,4
-U Washington,2003,in_state,19791,4
-U Washington,2003,out_of_state,73169,4
-U Washington,2004,in_state,21175,4
-U Washington,2004,out_of_state,79146,4
-U Washington,2005,in_state,22655,4
-U Washington,2005,out_of_state,84413,4
-U Washington,2006,in_state,24677,4
-U Washington,2006,out_of_state,88813,4
-U Washington,2007,in_state,27339,4
-U Washington,2007,out_of_state,92805,4
-U Washington,2008,in_state,31243,4
-U Washington,2008,out_of_state,98447,4
-U Washington,2009,in_state,36298,4
-U Washington,2009,out_of_state,104640,4
-U Washington,2010,in_state,40478,4
-U Washington,2010,out_of_state,111719,4
-U Washington,2011,in_state,43661,4
-U Washington,2011,out_of_state,119393,4
-U Washington,2012,in_state,44683,4
-U Washington,2012,out_of_state,125235,4
-U Washington,2013,in_state,43072,4
-U Washington,2013,out_of_state,130107,4
-U Washington,2014,in_state,41676,4
-U Washington,2014,out_of_state,133701,4
-U Washington,2015,in_state,40498,4
-U Washington,2015,out_of_state,136785,4
-U Washington,2016,in_state,40100,4
-U Washington,2016,out_of_state,140784,4
-U Washington,2017,in_state,41035,4
-U Washington,2017,out_of_state,145050,4
-U Washington,2018,in_state,42053,4
-U Washington,2018,out_of_state,149334,4
-U Washington,2019,in_state,43115,4
-U Washington,2019,out_of_state,153513,4
-U Washington,2020,in_state,44269,4
-U Washington,2020,out_of_state,157320,4
-U Washington,2021,in_state,,3
-U Washington,2021,out_of_state,,3
-UC San Diego,2000,in_state,0,4
-UC San Diego,2000,out_of_state,46687,4
-UC San Diego,2001,in_state,0,4
-UC San Diego,2001,out_of_state,52919,4
-UC San Diego,2002,in_state,0,4
-UC San Diego,2002,out_of_state,59519,4
-UC San Diego,2003,in_state,0,4
-UC San Diego,2003,out_of_state,65678,4
-UC San Diego,2004,in_state,0,4
-UC San Diego,2004,out_of_state,71016,4
-UC San Diego,2005,in_state,0,4
-UC San Diego,2005,out_of_state,74561,4
-UC San Diego,2006,in_state,7533,4
-UC San Diego,2006,out_of_state,87507,4
-UC San Diego,2007,in_state,16935,4
-UC San Diego,2007,out_of_state,101620,4
-UC San Diego,2008,in_state,28155,4
-UC San Diego,2008,out_of_state,116650,4
-UC San Diego,2009,in_state,39375,4
-UC San Diego,2009,out_of_state,130727,4
-UC San Diego,2010,in_state,43062,4
-UC San Diego,2010,out_of_state,134575,4
-UC San Diego,2011,in_state,44880,4
-UC San Diego,2011,out_of_state,136392,4
-UC San Diego,2012,in_state,44880,4
-UC San Diego,2012,out_of_state,138222,4
-UC San Diego,2013,in_state,44880,4
-UC San Diego,2013,out_of_state,142026,4
-UC San Diego,2014,in_state,45162,4
-UC San Diego,2014,out_of_state,147444,4
-UC San Diego,2015,in_state,45384,4
-UC San Diego,2015,out_of_state,153780,4
-UC San Diego,2016,in_state,45606,4
-UC San Diego,2016,out_of_state,159048,4
-UC San Diego,2017,in_state,45828,4
-UC San Diego,2017,out_of_state,162342,4
-UC San Diego,2018,in_state,45768,4
-UC San Diego,2018,out_of_state,164022,4
-UC San Diego,2019,in_state,45890,4
-UC San Diego,2019,out_of_state,165224,4
-UC San Diego,2020,in_state,46282,4
-UC San Diego,2020,out_of_state,166639,4
-UC San Diego,2021,in_state,,3
-UC San Diego,2021,out_of_state,,3
-U Michigan,2000,in_state,28164,4
-U Michigan,2000,out_of_state,89366,4
-U Michigan,2001,in_state,29850,4
-U Michigan,2001,out_of_state,95068,4
-U Michigan,2002,in_state,32124,4
-U Michigan,2002,out_of_state,101020,4
-U Michigan,2003,in_state,34360,4
-U Michigan,2003,out_of_state,106784,4
-U Michigan,2004,in_state,36830,4
-U Michigan,2004,out_of_state,111136,4
-U Michigan,2005,in_state,39664,4
-U Michigan,2005,out_of_state,118176,4
-U Michigan,2006,in_state,42110,4
-U Michigan,2006,out_of_state,125512,4
-U Michigan,2007,in_state,44224,4
-U Michigan,2007,out_of_state,132382,4
-U Michigan,2008,in_state,46406,4
-U Michigan,2008,out_of_state,141028,4
-U Michigan,2009,in_state,49183,4
-U Michigan,2009,out_of_state,148450,4
-U Michigan,2010,in_state,51496,4
-U Michigan,2010,out_of_state,155319,4
-U Michigan,2011,in_state,53856,4
-U Michigan,2011,out_of_state,162556,4
-U Michigan,2012,in_state,55817,4
-U Michigan,2012,out_of_state,169642,4
-U Michigan,2013,in_state,57174,4
-U Michigan,2013,out_of_state,176016,4
-U Michigan,2014,in_state,58824,4
-U Michigan,2014,out_of_state,183213,4
-U Michigan,2015,in_state,60713,4
-U Michigan,2015,out_of_state,190918,4
-U Michigan,2016,in_state,62524,4
-U Michigan,2016,out_of_state,198913,4
-U Michigan,2017,in_state,64062,4
-U Michigan,2017,out_of_state,205906,4
-U Michigan,2018,in_state,65494,4
-U Michigan,2018,out_of_state,211861,4
-U Michigan,2019,in_state,67051,4
-U Michigan,2019,out_of_state,218048,4
-U Michigan,2020,in_state,68816,4
-U Michigan,2020,out_of_state,225154,4
-U Michigan,2021,in_state,,3
-U Michigan,2021,out_of_state,,3
-UCLA,2000,in_state,0,4
-UCLA,2000,out_of_state,46687,4
-UCLA,2001,in_state,0,4
-UCLA,2001,out_of_state,52919,4
-UCLA,2002,in_state,0,4
-UCLA,2002,out_of_state,59519,4
-UCLA,2003,in_state,0,4
-UCLA,2003,out_of_state,65678,4
-UCLA,2004,in_state,0,4
-UCLA,2004,out_of_state,71016,4
-UCLA,2005,in_state,0,4
-UCLA,2005,out_of_state,74561,4
-UCLA,2006,in_state,7533,4
-UCLA,2006,out_of_state,87507,4
-UCLA,2007,in_state,16935,4
-UCLA,2007,out_of_state,101620,4
-UCLA,2008,in_state,28155,4
-UCLA,2008,out_of_state,116650,4
-UCLA,2009,in_state,39375,4
-UCLA,2009,out_of_state,130727,4
-UCLA,2010,in_state,43062,4
-UCLA,2010,out_of_state,134575,4
-UCLA,2011,in_state,44880,4
-UCLA,2011,out_of_state,136392,4
-UCLA,2012,in_state,44880,4
-UCLA,2012,out_of_state,138222,4
-UCLA,2013,in_state,44880,4
-UCLA,2013,out_of_state,142026,4
-UCLA,2014,in_state,45162,4
-UCLA,2014,out_of_state,147444,4
-UCLA,2015,in_state,45384,4
-UCLA,2015,out_of_state,153780,4
-UCLA,2016,in_state,45606,4
-UCLA,2016,out_of_state,159048,4
-UCLA,2017,in_state,45828,4
-UCLA,2017,out_of_state,162342,4
-UCLA,2018,in_state,45768,4
-UCLA,2018,out_of_state,164022,4
-UCLA,2019,in_state,45890,4
-UCLA,2019,out_of_state,165224,4
-UCLA,2020,in_state,46282,4
-UCLA,2020,out_of_state,166639,4
-UCLA,2021,in_state,,3
-UCLA,2021,out_of_state,,3
-Purdue,2000,in_state,18108,4
-Purdue,2000,out_of_state,59308,4
-Purdue,2001,in_state,20518,4
-Purdue,2001,out_of_state,65294,4
-Purdue,2002,in_state,23008,4
-Purdue,2002,out_of_state,71442,4
-Purdue,2003,in_state,24480,4
-Purdue,2003,out_of_state,76404,4
-Purdue,2004,in_state,25984,4
-Purdue,2004,out_of_state,80936,4
-Purdue,2005,in_state,27339,4
-Purdue,2005,out_of_state,85157,4
-Purdue,2006,in_state,29202,4
-Purdue,2006,out_of_state,90134,4
-Purdue,2007,in_state,31094,4
-Purdue,2007,out_of_state,95408,4
-Purdue,2008,in_state,32985,4
-Purdue,2008,out_of_state,100659,4
-Purdue,2009,in_state,34876,4
-Purdue,2009,out_of_state,105878,4
-Purdue,2010,in_state,35901,4
-Purdue,2010,out_of_state,109225,4
-Purdue,2011,in_state,36517,4
-Purdue,2011,out_of_state,111091,4
-Purdue,2012,in_state,36832,4
-Purdue,2012,out_of_state,112040,4
-Purdue,2013,in_state,36832,4
-Purdue,2013,out_of_state,112040,4
-Purdue,2014,in_state,36832,4
-Purdue,2014,out_of_state,112040,4
-Purdue,2015,in_state,36832,4
-Purdue,2015,out_of_state,112040,4
-Purdue,2016,in_state,36832,4
-Purdue,2016,out_of_state,112040,4
-Purdue,2017,in_state,36832,4
-Purdue,2017,out_of_state,112040,4
-Purdue,2018,in_state,37342,4
-Purdue,2018,out_of_state,112550,4
-Purdue,2019,in_state,37852,4
-Purdue,2019,out_of_state,113060,4
-Purdue,2020,in_state,38362,4
-Purdue,2020,out_of_state,113570,4
-Purdue,2021,in_state,,3
-Purdue,2021,out_of_state,,3
-UW Madison,2000,in_state,15356,4
-UW Madison,2000,out_of_state,65551,4
-UW Madison,2001,in_state,17320,4
-UW Madison,2001,out_of_state,71117,4
-UW Madison,2002,in_state,19280,4
-UW Madison,2002,out_of_state,75281,4
-UW Madison,2003,in_state,21426,4
-UW Madison,2003,out_of_state,77426,4
-UW Madison,2004,in_state,23202,4
-UW Madison,2004,out_of_state,79452,4
-UW Madison,2005,in_state,24626,4
-UW Madison,2005,out_of_state,81126,4
-UW Madison,2006,in_state,26304,4
-UW Madison,2006,out_of_state,83553,4
-UW Madison,2007,in_state,28237,4
-UW Madison,2007,out_of_state,86736,4
-UW Madison,2008,in_state,30499,4
-UW Madison,2008,out_of_state,90498,4
-UW Madison,2009,in_state,33094,4
-UW Madison,2009,out_of_state,95093,4
-UW Madison,2010,in_state,35071,4
-UW Madison,2010,out_of_state,98571,4
-UW Madison,2011,in_state,36411,4
-UW Madison,2011,out_of_state,100911,4
-UW Madison,2012,in_state,37092,4
-UW Madison,2012,out_of_state,105092,4
-UW Madison,2013,in_state,37092,4
-UW Madison,2013,out_of_state,111092,4
-UW Madison,2014,in_state,37092,4
-UW Madison,2014,out_of_state,119092,4
-UW Madison,2015,in_state,37092,4
-UW Madison,2015,out_of_state,129092,4
-UW Madison,2016,in_state,37092,4
-UW Madison,2016,out_of_state,136902,4
-UW Madison,2017,in_state,37092,4
-UW Madison,2017,out_of_state,142540,4
-UW Madison,2018,in_state,37092,4
-UW Madison,2018,out_of_state,146178,4
-UW Madison,2019,in_state,37092,4
-UW Madison,2019,out_of_state,148559,4
-UW Madison,2020,in_state,37463,4
-UW Madison,2020,out_of_state,151268,4
-UW Madison,2021,in_state,,3
-UW Madison,2021,out_of_state,,3
+university,entry_year,residency,four_year_price_USD,years_covered,includes_required_fees
+MIT,2000,in_state,114644,4,True
+MIT,2000,out_of_state,114644,4,True
+MIT,2001,in_state,120138,4,True
+MIT,2001,out_of_state,120138,4,True
+MIT,2002,in_state,126150,4,True
+MIT,2002,out_of_state,126150,4,True
+MIT,2003,in_state,132060,4,True
+MIT,2003,out_of_state,132060,4,True
+MIT,2004,in_state,137446,4,True
+MIT,2004,out_of_state,137446,4,True
+MIT,2005,in_state,143166,4,True
+MIT,2005,out_of_state,143166,4,True
+MIT,2006,in_state,147208,4,True
+MIT,2006,out_of_state,147208,4,True
+MIT,2007,in_state,151380,4,True
+MIT,2007,out_of_state,151380,4,True
+MIT,2008,in_state,155686,4,True
+MIT,2008,out_of_state,155686,4,True
+MIT,2009,in_state,159776,4,True
+MIT,2009,out_of_state,159776,4,True
+MIT,2010,in_state,165492,4,True
+MIT,2010,out_of_state,165492,4,True
+MIT,2011,in_state,171296,4,True
+MIT,2011,out_of_state,171296,4,True
+MIT,2012,in_state,177268,4,True
+MIT,2012,out_of_state,177268,4,True
+MIT,2013,in_state,183670,4,True
+MIT,2013,out_of_state,183670,4,True
+MIT,2014,in_state,190064,4,True
+MIT,2014,out_of_state,190064,4,True
+MIT,2015,in_state,196880,4,True
+MIT,2015,out_of_state,196880,4,True
+MIT,2016,in_state,203966,4,True
+MIT,2016,out_of_state,203966,4,True
+MIT,2017,in_state,208964,4,True
+MIT,2017,out_of_state,208964,4,True
+MIT,2018,in_state,214950,4,True
+MIT,2018,out_of_state,214950,4,True
+MIT,2019,in_state,221104,4,True
+MIT,2019,out_of_state,221104,4,True
+MIT,2020,in_state,227470,4,True
+MIT,2020,out_of_state,227470,4,True
+MIT,2021,in_state,,3,True
+MIT,2021,out_of_state,,3,True
+Stanford,2000,in_state,107023,4,True
+Stanford,2000,out_of_state,107023,4,True
+Stanford,2001,in_state,112504,4,True
+Stanford,2001,out_of_state,112504,4,True
+Stanford,2002,in_state,117830,4,True
+Stanford,2002,out_of_state,117830,4,True
+Stanford,2003,in_state,123651,4,True
+Stanford,2003,out_of_state,123651,4,True
+Stanford,2004,in_state,129908,4,True
+Stanford,2004,out_of_state,129908,4,True
+Stanford,2005,in_state,136165,4,True
+Stanford,2005,out_of_state,136165,4,True
+Stanford,2006,in_state,142951,4,True
+Stanford,2006,out_of_state,142951,4,True
+Stanford,2007,in_state,149859,4,True
+Stanford,2007,out_of_state,149859,4,True
+Stanford,2008,in_state,156334,4,True
+Stanford,2008,out_of_state,156334,4,True
+Stanford,2009,in_state,162199,4,True
+Stanford,2009,out_of_state,162199,4,True
+Stanford,2010,in_state,167644,4,True
+Stanford,2010,out_of_state,167644,4,True
+Stanford,2011,in_state,172229,4,True
+Stanford,2011,out_of_state,172229,4,True
+Stanford,2012,in_state,176985,4,True
+Stanford,2012,out_of_state,176985,4,True
+Stanford,2013,in_state,182700,4,True
+Stanford,2013,out_of_state,182700,4,True
+Stanford,2014,in_state,188634,4,True
+Stanford,2014,out_of_state,188634,4,True
+Stanford,2015,in_state,195231,4,True
+Stanford,2015,out_of_state,195231,4,True
+Stanford,2016,in_state,202440,4,True
+Stanford,2016,out_of_state,202440,4,True
+Stanford,2017,in_state,210669,4,True
+Stanford,2017,out_of_state,210669,4,True
+Stanford,2018,in_state,217221,4,True
+Stanford,2018,out_of_state,217221,4,True
+Stanford,2019,in_state,224283,4,True
+Stanford,2019,out_of_state,224283,4,True
+Stanford,2020,in_state,233238,4,True
+Stanford,2020,out_of_state,233238,4,True
+Stanford,2021,in_state,,3,True
+Stanford,2021,out_of_state,,3,True
+Carnegie Mellon,2000,in_state,106766,4,True
+Carnegie Mellon,2000,out_of_state,106766,4,True
+Carnegie Mellon,2001,in_state,113010,4,True
+Carnegie Mellon,2001,out_of_state,113010,4,True
+Carnegie Mellon,2002,in_state,119182,4,True
+Carnegie Mellon,2002,out_of_state,119182,4,True
+Carnegie Mellon,2003,in_state,125514,4,True
+Carnegie Mellon,2003,out_of_state,125514,4,True
+Carnegie Mellon,2004,in_state,132512,4,True
+Carnegie Mellon,2004,out_of_state,132512,4,True
+Carnegie Mellon,2005,in_state,140320,4,True
+Carnegie Mellon,2005,out_of_state,140320,4,True
+Carnegie Mellon,2006,in_state,148174,4,True
+Carnegie Mellon,2006,out_of_state,148174,4,True
+Carnegie Mellon,2007,in_state,156862,4,True
+Carnegie Mellon,2007,out_of_state,156862,4,True
+Carnegie Mellon,2008,in_state,164888,4,True
+Carnegie Mellon,2008,out_of_state,164888,4,True
+Carnegie Mellon,2009,in_state,171804,4,True
+Carnegie Mellon,2009,out_of_state,171804,4,True
+Carnegie Mellon,2010,in_state,179548,4,True
+Carnegie Mellon,2010,out_of_state,179548,4,True
+Carnegie Mellon,2011,in_state,186434,4,True
+Carnegie Mellon,2011,out_of_state,186434,4,True
+Carnegie Mellon,2012,in_state,193089,4,True
+Carnegie Mellon,2012,out_of_state,193089,4,True
+Carnegie Mellon,2013,in_state,199639,4,True
+Carnegie Mellon,2013,out_of_state,199639,4,True
+Carnegie Mellon,2014,in_state,205907,4,True
+Carnegie Mellon,2014,out_of_state,205907,4,True
+Carnegie Mellon,2015,in_state,212350,4,True
+Carnegie Mellon,2015,out_of_state,212350,4,True
+Carnegie Mellon,2016,in_state,218804,4,True
+Carnegie Mellon,2016,out_of_state,218804,4,True
+Carnegie Mellon,2017,in_state,224979,4,True
+Carnegie Mellon,2017,out_of_state,224979,4,True
+Carnegie Mellon,2018,in_state,229593,4,True
+Carnegie Mellon,2018,out_of_state,229593,4,True
+Carnegie Mellon,2019,in_state,234982,4,True
+Carnegie Mellon,2019,out_of_state,234982,4,True
+Carnegie Mellon,2020,in_state,241137,4,True
+Carnegie Mellon,2020,out_of_state,241137,4,True
+Carnegie Mellon,2021,in_state,,3,True
+Carnegie Mellon,2021,out_of_state,,3,True
+Princeton,2000,in_state,,3,True
+Princeton,2000,out_of_state,,3,True
+Princeton,2001,in_state,111840,4,True
+Princeton,2001,out_of_state,111840,4,True
+Princeton,2002,in_state,117130,4,True
+Princeton,2002,out_of_state,117130,4,True
+Princeton,2003,in_state,122900,4,True
+Princeton,2003,out_of_state,122900,4,True
+Princeton,2004,in_state,127360,4,True
+Princeton,2004,out_of_state,127360,4,True
+Princeton,2005,in_state,131740,4,True
+Princeton,2005,out_of_state,131740,4,True
+Princeton,2006,in_state,135630,4,True
+Princeton,2006,out_of_state,135630,4,True
+Princeton,2007,in_state,139270,4,True
+Princeton,2007,out_of_state,139270,4,True
+Princeton,2008,in_state,144135,4,True
+Princeton,2008,out_of_state,144135,4,True
+Princeton,2009,in_state,149382,4,True
+Princeton,2009,out_of_state,149382,4,True
+Princeton,2010,in_state,154212,4,True
+Princeton,2010,out_of_state,154212,4,True
+Princeton,2011,in_state,159392,4,True
+Princeton,2011,out_of_state,159392,4,True
+Princeton,2012,in_state,164977,4,True
+Princeton,2012,out_of_state,164977,4,True
+Princeton,2013,in_state,170740,4,True
+Princeton,2013,out_of_state,170740,4,True
+Princeton,2014,in_state,177710,4,True
+Princeton,2014,out_of_state,177710,4,True
+Princeton,2015,in_state,186230,4,True
+Princeton,2015,out_of_state,186230,4,True
+Princeton,2016,in_state,195580,4,True
+Princeton,2016,out_of_state,195580,4,True
+Princeton,2017,in_state,198782,4,True
+Princeton,2017,out_of_state,198782,4,True
+Princeton,2018,in_state,207652,4,True
+Princeton,2018,out_of_state,207652,4,True
+Princeton,2019,in_state,214722,4,True
+Princeton,2019,out_of_state,214722,4,True
+Princeton,2020,in_state,221632,4,True
+Princeton,2020,out_of_state,221632,4,True
+Princeton,2021,in_state,,3,True
+Princeton,2021,out_of_state,,3,True
+Cornell,2000,in_state,107060,4,True
+Cornell,2000,out_of_state,107060,4,True
+Cornell,2001,in_state,112377,4,True
+Cornell,2001,out_of_state,112377,4,True
+Cornell,2002,in_state,117782,4,True
+Cornell,2002,out_of_state,117782,4,True
+Cornell,2003,in_state,123369,4,True
+Cornell,2003,out_of_state,123369,4,True
+Cornell,2004,in_state,129396,4,True
+Cornell,2004,out_of_state,129396,4,True
+Cornell,2005,in_state,135733,4,True
+Cornell,2005,out_of_state,135733,4,True
+Cornell,2006,in_state,142220,4,True
+Cornell,2006,out_of_state,142220,4,True
+Cornell,2007,in_state,148905,4,True
+Cornell,2007,out_of_state,148905,4,True
+Cornell,2008,in_state,155665,4,True
+Cornell,2008,out_of_state,155665,4,True
+Cornell,2009,in_state,162574,4,True
+Cornell,2009,out_of_state,162574,4,True
+Cornell,2010,in_state,169978,4,True
+Cornell,2010,out_of_state,169978,4,True
+Cornell,2011,in_state,177598,4,True
+Cornell,2011,out_of_state,177598,4,True
+Cornell,2012,in_state,185173,4,True
+Cornell,2012,out_of_state,185173,4,True
+Cornell,2013,in_state,192713,4,True
+Cornell,2013,out_of_state,192713,4,True
+Cornell,2014,in_state,200208,4,True
+Cornell,2014,out_of_state,200208,4,True
+Cornell,2015,in_state,208110,4,True
+Cornell,2015,out_of_state,208110,4,True
+Cornell,2016,in_state,216216,4,True
+Cornell,2016,out_of_state,216216,4,True
+Cornell,2017,in_state,224545,4,True
+Cornell,2017,out_of_state,224545,4,True
+Cornell,2018,in_state,232707,4,True
+Cornell,2018,out_of_state,232707,4,True
+Cornell,2019,in_state,240719,4,True
+Cornell,2019,out_of_state,240719,4,True
+Cornell,2020,in_state,249511,4,True
+Cornell,2020,out_of_state,249511,4,True
+Cornell,2021,in_state,,3,True
+Cornell,2021,out_of_state,,3,True
+Caltech,2000,in_state,87315,4,True
+Caltech,2000,out_of_state,87315,4,True
+Caltech,2001,in_state,92922,4,True
+Caltech,2001,out_of_state,92922,4,True
+Caltech,2002,in_state,99111,4,True
+Caltech,2002,out_of_state,99111,4,True
+Caltech,2003,in_state,108408,4,True
+Caltech,2003,out_of_state,108408,4,True
+Caltech,2004,in_state,117126,4,True
+Caltech,2004,out_of_state,117126,4,True
+Caltech,2005,in_state,126075,4,True
+Caltech,2005,out_of_state,126075,4,True
+Caltech,2006,in_state,133350,4,True
+Caltech,2006,out_of_state,133350,4,True
+Caltech,2007,in_state,138216,4,True
+Caltech,2007,out_of_state,138216,4,True
+Caltech,2008,in_state,143085,4,True
+Caltech,2008,out_of_state,143085,4,True
+Caltech,2009,in_state,148158,4,True
+Caltech,2009,out_of_state,148158,4,True
+Caltech,2010,in_state,155112,4,True
+Caltech,2010,out_of_state,155112,4,True
+Caltech,2011,in_state,162192,4,True
+Caltech,2011,out_of_state,162192,4,True
+Caltech,2012,in_state,169878,4,True
+Caltech,2012,out_of_state,169878,4,True
+Caltech,2013,in_state,177867,4,True
+Caltech,2013,out_of_state,177867,4,True
+Caltech,2014,in_state,186237,4,True
+Caltech,2014,out_of_state,186237,4,True
+Caltech,2015,in_state,195237,4,True
+Caltech,2015,out_of_state,195237,4,True
+Caltech,2016,in_state,204447,4,True
+Caltech,2016,out_of_state,204447,4,True
+Caltech,2017,in_state,213732,4,True
+Caltech,2017,out_of_state,213732,4,True
+Caltech,2018,in_state,222504,4,True
+Caltech,2018,out_of_state,222504,4,True
+Caltech,2019,in_state,231006,4,True
+Caltech,2019,out_of_state,231006,4,True
+Caltech,2020,in_state,239661,4,True
+Caltech,2020,out_of_state,239661,4,True
+Caltech,2021,in_state,,3,True
+Caltech,2021,out_of_state,,3,True
+Harvard,2000,in_state,107655,4,True
+Harvard,2000,out_of_state,107655,4,True
+Harvard,2001,in_state,113147,4,True
+Harvard,2001,out_of_state,113147,4,True
+Harvard,2002,in_state,119225,4,True
+Harvard,2002,out_of_state,119225,4,True
+Harvard,2003,in_state,125486,4,True
+Harvard,2003,out_of_state,125486,4,True
+Harvard,2004,in_state,131424,4,True
+Harvard,2004,out_of_state,131424,4,True
+Harvard,2005,in_state,136977,4,True
+Harvard,2005,out_of_state,136977,4,True
+Harvard,2006,in_state,141892,4,True
+Harvard,2006,out_of_state,141892,4,True
+Harvard,2007,in_state,146598,4,True
+Harvard,2007,out_of_state,146598,4,True
+Harvard,2008,in_state,151451,4,True
+Harvard,2008,out_of_state,151451,4,True
+Harvard,2009,in_state,156144,4,True
+Harvard,2009,out_of_state,156144,4,True
+Harvard,2010,in_state,161424,4,True
+Harvard,2010,out_of_state,161424,4,True
+Harvard,2011,in_state,166947,4,True
+Harvard,2011,out_of_state,166947,4,True
+Harvard,2012,in_state,172374,4,True
+Harvard,2012,out_of_state,172374,4,True
+Harvard,2013,in_state,178582,4,True
+Harvard,2013,out_of_state,178582,4,True
+Harvard,2014,in_state,185239,4,True
+Harvard,2014,out_of_state,185239,4,True
+Harvard,2015,in_state,191721,4,True
+Harvard,2015,out_of_state,191721,4,True
+Harvard,2016,in_state,198368,4,True
+Harvard,2016,out_of_state,198368,4,True
+Harvard,2017,in_state,205262,4,True
+Harvard,2017,out_of_state,205262,4,True
+Harvard,2018,in_state,211900,4,True
+Harvard,2018,out_of_state,211900,4,True
+Harvard,2019,in_state,218741,4,True
+Harvard,2019,out_of_state,218741,4,True
+Harvard,2020,in_state,225892,4,True
+Harvard,2020,out_of_state,225892,4,True
+Harvard,2021,in_state,,3,True
+Harvard,2021,out_of_state,,3,True
+Columbia,2000,in_state,110986,4,True
+Columbia,2000,out_of_state,110986,4,True
+Columbia,2001,in_state,116536,4,True
+Columbia,2001,out_of_state,116536,4,True
+Columbia,2002,in_state,122891,4,True
+Columbia,2002,out_of_state,122891,4,True
+Columbia,2003,in_state,129672,4,True
+Columbia,2003,out_of_state,129672,4,True
+Columbia,2004,in_state,137107,4,True
+Columbia,2004,out_of_state,137107,4,True
+Columbia,2005,in_state,144961,4,True
+Columbia,2005,out_of_state,144961,4,True
+Columbia,2006,in_state,153031,4,True
+Columbia,2006,out_of_state,153031,4,True
+Columbia,2007,in_state,161169,4,True
+Columbia,2007,out_of_state,161169,4,True
+Columbia,2008,in_state,169236,4,True
+Columbia,2008,out_of_state,169236,4,True
+Columbia,2009,in_state,177156,4,True
+Columbia,2009,out_of_state,177156,4,True
+Columbia,2010,in_state,184978,4,True
+Columbia,2010,out_of_state,184978,4,True
+Columbia,2011,in_state,192682,4,True
+Columbia,2011,out_of_state,192682,4,True
+Columbia,2012,in_state,200392,4,True
+Columbia,2012,out_of_state,200392,4,True
+Columbia,2013,in_state,203119,4,True
+Columbia,2013,out_of_state,203119,4,True
+Columbia,2014,in_state,205621,4,True
+Columbia,2014,out_of_state,205621,4,True
+Columbia,2015,in_state,208038,4,True
+Columbia,2015,out_of_state,208038,4,True
+Columbia,2016,in_state,215616,4,True
+Columbia,2016,out_of_state,215616,4,True
+Columbia,2017,in_state,226175,4,True
+Columbia,2017,out_of_state,226175,4,True
+Columbia,2018,in_state,237001,4,True
+Columbia,2018,out_of_state,237001,4,True
+Columbia,2019,in_state,249084,4,True
+Columbia,2019,out_of_state,249084,4,True
+Columbia,2020,in_state,256677,4,True
+Columbia,2020,out_of_state,256677,4,True
+Columbia,2021,in_state,,3,True
+Columbia,2021,out_of_state,,3,True
+Penn,2000,in_state,109106,4,True
+Penn,2000,out_of_state,109106,4,True
+Penn,2001,in_state,114652,4,True
+Penn,2001,out_of_state,114652,4,True
+Penn,2002,in_state,120386,4,True
+Penn,2002,out_of_state,120386,4,True
+Penn,2003,in_state,126554,4,True
+Penn,2003,out_of_state,126554,4,True
+Penn,2004,in_state,133152,4,True
+Penn,2004,out_of_state,133152,4,True
+Penn,2005,in_state,139962,4,True
+Penn,2005,out_of_state,139962,4,True
+Penn,2006,in_state,146568,4,True
+Penn,2006,out_of_state,146568,4,True
+Penn,2007,in_state,152926,4,True
+Penn,2007,out_of_state,152926,4,True
+Penn,2008,in_state,159108,4,True
+Penn,2008,out_of_state,159108,4,True
+Penn,2009,in_state,165320,4,True
+Penn,2009,out_of_state,165320,4,True
+Penn,2010,in_state,172240,4,True
+Penn,2010,out_of_state,172240,4,True
+Penn,2011,in_state,179394,4,True
+Penn,2011,out_of_state,179394,4,True
+Penn,2012,in_state,186832,4,True
+Penn,2012,out_of_state,186832,4,True
+Penn,2013,in_state,194558,4,True
+Penn,2013,out_of_state,194558,4,True
+Penn,2014,in_state,202202,4,True
+Penn,2014,out_of_state,202202,4,True
+Penn,2015,in_state,210118,4,True
+Penn,2015,out_of_state,210118,4,True
+Penn,2016,in_state,218352,4,True
+Penn,2016,out_of_state,218352,4,True
+Penn,2017,in_state,226930,4,True
+Penn,2017,out_of_state,226930,4,True
+Penn,2018,in_state,235106,4,True
+Penn,2018,out_of_state,235106,4,True
+Penn,2019,in_state,242974,4,True
+Penn,2019,out_of_state,242974,4,True
+Penn,2020,in_state,251308,4,True
+Penn,2020,out_of_state,251308,4,True
+Penn,2021,in_state,,3,True
+Penn,2021,out_of_state,,3,True
+Johns Hopkins,2000,in_state,,3,True
+Johns Hopkins,2000,out_of_state,,3,True
+Johns Hopkins,2001,in_state,112470,4,True
+Johns Hopkins,2001,out_of_state,112470,4,True
+Johns Hopkins,2002,in_state,117880,4,True
+Johns Hopkins,2002,out_of_state,117880,4,True
+Johns Hopkins,2003,in_state,124390,4,True
+Johns Hopkins,2003,out_of_state,124390,4,True
+Johns Hopkins,2004,in_state,131560,4,True
+Johns Hopkins,2004,out_of_state,131560,4,True
+Johns Hopkins,2005,in_state,139120,4,True
+Johns Hopkins,2005,out_of_state,139120,4,True
+Johns Hopkins,2006,in_state,146650,4,True
+Johns Hopkins,2006,out_of_state,146650,4,True
+Johns Hopkins,2007,in_state,153430,4,True
+Johns Hopkins,2007,out_of_state,153430,4,True
+Johns Hopkins,2008,in_state,159810,4,True
+Johns Hopkins,2008,out_of_state,159810,4,True
+Johns Hopkins,2009,in_state,165500,4,True
+Johns Hopkins,2009,out_of_state,165500,4,True
+Johns Hopkins,2010,in_state,171820,4,True
+Johns Hopkins,2010,out_of_state,171820,4,True
+Johns Hopkins,2011,in_state,178200,4,True
+Johns Hopkins,2011,out_of_state,178200,4,True
+Johns Hopkins,2012,in_state,184630,4,True
+Johns Hopkins,2012,out_of_state,184630,4,True
+Johns Hopkins,2013,in_state,191650,4,True
+Johns Hopkins,2013,out_of_state,191650,4,True
+Johns Hopkins,2014,in_state,198350,4,True
+Johns Hopkins,2014,out_of_state,198350,4,True
+Johns Hopkins,2015,in_state,205030,4,True
+Johns Hopkins,2015,out_of_state,205030,4,True
+Johns Hopkins,2016,in_state,211670,4,True
+Johns Hopkins,2016,out_of_state,211670,4,True
+Johns Hopkins,2017,in_state,215420,4,True
+Johns Hopkins,2017,out_of_state,215420,4,True
+Johns Hopkins,2018,in_state,221970,4,True
+Johns Hopkins,2018,out_of_state,221970,4,True
+Johns Hopkins,2019,in_state,228710,4,True
+Johns Hopkins,2019,out_of_state,228710,4,True
+Johns Hopkins,2020,in_state,236200,4,True
+Johns Hopkins,2020,out_of_state,236200,4,True
+Johns Hopkins,2021,in_state,,3,True
+Johns Hopkins,2021,out_of_state,,3,True
+UC Berkeley,2000,in_state,18229,4,True
+UC Berkeley,2000,out_of_state,66506,4,True
+UC Berkeley,2001,in_state,20912,4,True
+UC Berkeley,2001,out_of_state,75531,4,True
+UC Berkeley,2002,in_state,23301,4,True
+UC Berkeley,2002,out_of_state,84295,4,True
+UC Berkeley,2003,in_state,25754,4,True
+UC Berkeley,2003,out_of_state,93053,4,True
+UC Berkeley,2004,in_state,27061,4,True
+UC Berkeley,2004,out_of_state,99770,4,True
+UC Berkeley,2005,in_state,27987,4,True
+UC Berkeley,2005,out_of_state,104348,4,True
+UC Berkeley,2006,in_state,30473,4,True
+UC Berkeley,2006,out_of_state,112102,4,True
+UC Berkeley,2007,in_state,34759,4,True
+UC Berkeley,2007,out_of_state,120583,4,True
+UC Berkeley,2008,in_state,40428,4,True
+UC Berkeley,2008,out_of_state,129510,4,True
+UC Berkeley,2009,in_state,45646,4,True
+UC Berkeley,2009,out_of_state,136998,4,True
+UC Berkeley,2010,in_state,49512,4,True
+UC Berkeley,2010,out_of_state,141025,4,True
+UC Berkeley,2011,in_state,51544,4,True
+UC Berkeley,2011,out_of_state,143056,4,True
+UC Berkeley,2012,in_state,52141,4,True
+UC Berkeley,2012,out_of_state,145483,4,True
+UC Berkeley,2013,in_state,52776,4,True
+UC Berkeley,2013,out_of_state,149922,4,True
+UC Berkeley,2014,in_state,54082,4,True
+UC Berkeley,2014,out_of_state,156364,4,True
+UC Berkeley,2015,in_state,55294,4,True
+UC Berkeley,2015,out_of_state,163690,4,True
+UC Berkeley,2016,in_state,56116,4,True
+UC Berkeley,2016,out_of_state,169558,4,True
+UC Berkeley,2017,in_state,56919,4,True
+UC Berkeley,2017,out_of_state,173433,4,True
+UC Berkeley,2018,in_state,56975,4,True
+UC Berkeley,2018,out_of_state,175229,4,True
+UC Berkeley,2019,in_state,57186,4,True
+UC Berkeley,2019,out_of_state,176520,4,True
+UC Berkeley,2020,in_state,57783,4,True
+UC Berkeley,2020,out_of_state,178140,4,True
+UC Berkeley,2021,in_state,,3,True
+UC Berkeley,2021,out_of_state,,3,True
+Georgia Tech,2000,in_state,14454,4,True
+Georgia Tech,2000,out_of_state,53164,4,True
+Georgia Tech,2001,in_state,15424,4,True
+Georgia Tech,2001,out_of_state,59896,4,True
+Georgia Tech,2002,in_state,16618,4,True
+Georgia Tech,2002,out_of_state,66536,4,True
+Georgia Tech,2003,in_state,17928,4,True
+Georgia Tech,2003,out_of_state,72822,4,True
+Georgia Tech,2004,in_state,19157,4,True
+Georgia Tech,2004,out_of_state,78519,4,True
+Georgia Tech,2005,in_state,20458,4,True
+Georgia Tech,2005,out_of_state,86143,4,True
+Georgia Tech,2006,in_state,22075,4,True
+Georgia Tech,2006,out_of_state,91023,4,True
+Georgia Tech,2007,in_state,24668,4,True
+Georgia Tech,2007,out_of_state,96592,4,True
+Georgia Tech,2008,in_state,28409,4,True
+Georgia Tech,2008,out_of_state,102382,4,True
+Georgia Tech,2009,in_state,32928,4,True
+Georgia Tech,2009,out_of_state,106602,4,True
+Georgia Tech,2010,in_state,37313,4,True
+Georgia Tech,2010,out_of_state,112686,4,True
+Georgia Tech,2011,in_state,41188,4,True
+Georgia Tech,2011,out_of_state,117543,4,True
+Georgia Tech,2012,in_state,44346,4,True
+Georgia Tech,2012,out_of_state,122450,4,True
+Georgia Tech,2013,in_state,46460,4,True
+Georgia Tech,2013,out_of_state,125452,4,True
+Georgia Tech,2014,in_state,48228,4,True
+Georgia Tech,2014,out_of_state,128512,4,True
+Georgia Tech,2015,in_state,49258,4,True
+Georgia Tech,2015,out_of_state,130834,4,True
+Georgia Tech,2016,in_state,49736,4,True
+Georgia Tech,2016,out_of_state,132232,4,True
+Georgia Tech,2017,in_state,50376,4,True
+Georgia Tech,2017,out_of_state,133792,4,True
+Georgia Tech,2018,in_state,50810,4,True
+Georgia Tech,2018,out_of_state,134742,4,True
+Georgia Tech,2019,in_state,50150,4,True
+Georgia Tech,2019,out_of_state,134598,4,True
+Georgia Tech,2020,in_state,49232,4,True
+Georgia Tech,2020,out_of_state,133680,4,True
+Georgia Tech,2021,in_state,,3,True
+Georgia Tech,2021,out_of_state,,3,True
+UIUC,2000,in_state,24462,4,True
+UIUC,2000,out_of_state,59370,4,True
+UIUC,2001,in_state,27412,4,True
+UIUC,2001,out_of_state,67792,4,True
+UIUC,2002,in_state,30292,4,True
+UIUC,2002,out_of_state,76938,4,True
+UIUC,2003,in_state,33470,4,True
+UIUC,2003,out_of_state,85598,4,True
+UIUC,2004,in_state,37590,4,True
+UIUC,2004,out_of_state,92768,4,True
+UIUC,2005,in_state,41752,4,True
+UIUC,2005,out_of_state,97794,4,True
+UIUC,2006,in_state,45646,4,True
+UIUC,2006,out_of_state,101744,4,True
+UIUC,2007,in_state,49477,4,True
+UIUC,2007,out_of_state,106616,4,True
+UIUC,2008,in_state,52928,4,True
+UIUC,2008,out_of_state,111353,4,True
+UIUC,2009,in_state,56311,4,True
+UIUC,2009,out_of_state,116579,4,True
+UIUC,2010,in_state,59993,4,True
+UIUC,2010,out_of_state,121852,4,True
+UIUC,2011,in_state,63039,4,True
+UIUC,2011,out_of_state,125633,4,True
+UIUC,2012,in_state,65544,4,True
+UIUC,2012,out_of_state,128902,4,True
+UIUC,2013,in_state,67239,4,True
+UIUC,2013,out_of_state,131797,4,True
+UIUC,2014,in_state,68322,4,True
+UIUC,2014,out_of_state,134573,4,True
+UIUC,2015,in_state,68844,4,True
+UIUC,2015,out_of_state,137349,4,True
+UIUC,2016,in_state,69032,4,True
+UIUC,2016,out_of_state,140340,4,True
+UIUC,2017,in_state,69061,4,True
+UIUC,2017,out_of_state,143049,4,True
+UIUC,2018,in_state,69402,4,True
+UIUC,2018,out_of_state,145962,4,True
+UIUC,2019,in_state,69903,4,True
+UIUC,2019,out_of_state,148927,4,True
+UIUC,2020,in_state,70689,4,True
+UIUC,2020,out_of_state,151906,4,True
+UIUC,2021,in_state,,3,True
+UIUC,2021,out_of_state,,3,True
+UT Austin,2000,in_state,15479,4,True
+UT Austin,2000,out_of_state,41879,4,True
+UT Austin,2001,in_state,17639,4,True
+UT Austin,2001,out_of_state,46289,4,True
+UT Austin,2002,in_state,20845,4,True
+UT Austin,2002,out_of_state,52503,4,True
+UT Austin,2003,in_state,24525,4,True
+UT Austin,2003,out_of_state,62377,4,True
+UT Austin,2004,in_state,28007,4,True
+UT Austin,2004,out_of_state,75653,4,True
+UT Austin,2005,in_state,30804,4,True
+UT Austin,2005,out_of_state,88978,4,True
+UT Austin,2006,in_state,32768,4,True
+UT Austin,2006,out_of_state,102574,4,True
+UT Austin,2007,in_state,34556,4,True
+UT Austin,2007,out_of_state,113428,4,True
+UT Austin,2008,in_state,36680,4,True
+UT Austin,2008,out_of_state,121390,4,True
+UT Austin,2009,in_state,37938,4,True
+UT Austin,2009,out_of_state,126758,4,True
+UT Austin,2010,in_state,38800,4,True
+UT Austin,2010,out_of_state,130694,4,True
+UT Austin,2011,in_state,39212,4,True
+UT Austin,2011,out_of_state,134312,4,True
+UT Austin,2012,in_state,39224,4,True
+UT Austin,2012,out_of_state,136482,4,True
+UT Austin,2013,in_state,39526,4,True
+UT Austin,2013,out_of_state,139036,4,True
+UT Austin,2014,in_state,40126,4,True
+UT Austin,2014,out_of_state,141938,4,True
+UT Austin,2015,in_state,40906,4,True
+UT Austin,2015,out_of_state,144682,4,True
+UT Austin,2016,in_state,41924,4,True
+UT Austin,2016,out_of_state,148332,4,True
+UT Austin,2017,in_state,43280,4,True
+UT Austin,2017,out_of_state,152682,4,True
+UT Austin,2018,in_state,44634,4,True
+UT Austin,2018,out_of_state,156934,4,True
+UT Austin,2019,in_state,45722,4,True
+UT Austin,2019,out_of_state,160424,4,True
+UT Austin,2020,in_state,46576,4,True
+UT Austin,2020,out_of_state,164876,4,True
+UT Austin,2021,in_state,,3,True
+UT Austin,2021,out_of_state,,3,True
+U Washington,2000,in_state,17752,4,True
+U Washington,2000,out_of_state,56724,4,True
+U Washington,2001,in_state,19007,4,True
+U Washington,2001,out_of_state,62187,4,True
+U Washington,2002,in_state,20500,4,True
+U Washington,2002,out_of_state,69281,4,True
+U Washington,2003,in_state,21849,4,True
+U Washington,2003,out_of_state,75227,4,True
+U Washington,2004,in_state,23266,4,True
+U Washington,2004,out_of_state,81237,4,True
+U Washington,2005,in_state,24782,4,True
+U Washington,2005,out_of_state,86540,4,True
+U Washington,2006,in_state,26864,4,True
+U Washington,2006,out_of_state,91000,4,True
+U Washington,2007,in_state,29580,4,True
+U Washington,2007,out_of_state,95046,4,True
+U Washington,2008,in_state,33769,4,True
+U Washington,2008,out_of_state,100973,4,True
+U Washington,2009,in_state,39350,4,True
+U Washington,2009,out_of_state,107692,4,True
+U Washington,2010,in_state,44055,4,True
+U Washington,2010,out_of_state,115296,4,True
+U Washington,2011,in_state,47748,4,True
+U Washington,2011,out_of_state,123480,4,True
+U Washington,2012,in_state,49013,4,True
+U Washington,2012,out_of_state,129565,4,True
+U Washington,2013,in_state,47383,4,True
+U Washington,2013,out_of_state,134418,4,True
+U Washington,2014,in_state,45960,4,True
+U Washington,2014,out_of_state,137985,4,True
+U Washington,2015,in_state,44773,4,True
+U Washington,2015,out_of_state,141060,4,True
+U Washington,2016,in_state,44399,4,True
+U Washington,2016,out_of_state,145083,4,True
+U Washington,2017,in_state,45391,4,True
+U Washington,2017,out_of_state,149406,4,True
+U Washington,2018,in_state,46493,4,True
+U Washington,2018,out_of_state,153774,4,True
+U Washington,2019,in_state,47528,4,True
+U Washington,2019,out_of_state,157926,4,True
+U Washington,2020,in_state,48706,4,True
+U Washington,2020,out_of_state,161757,4,True
+U Washington,2021,in_state,,3,True
+U Washington,2021,out_of_state,,3,True
+UC San Diego,2000,in_state,18801,4,True
+UC San Diego,2000,out_of_state,67078,4,True
+UC San Diego,2001,in_state,21804,4,True
+UC San Diego,2001,out_of_state,76423,4,True
+UC San Diego,2002,in_state,24134,4,True
+UC San Diego,2002,out_of_state,85499,4,True
+UC San Diego,2003,in_state,26329,4,True
+UC San Diego,2003,out_of_state,93999,4,True
+UC San Diego,2004,in_state,27680,4,True
+UC San Diego,2004,out_of_state,100760,4,True
+UC San Diego,2005,in_state,28891,4,True
+UC San Diego,2005,out_of_state,105626,4,True
+UC San Diego,2006,in_state,31643,4,True
+UC San Diego,2006,out_of_state,113275,4,True
+UC San Diego,2007,in_state,36261,4,True
+UC San Diego,2007,out_of_state,122088,4,True
+UC San Diego,2008,in_state,42005,4,True
+UC San Diego,2008,out_of_state,131090,4,True
+UC San Diego,2009,in_state,47160,4,True
+UC San Diego,2009,out_of_state,138512,4,True
+UC San Diego,2010,in_state,50994,4,True
+UC San Diego,2010,out_of_state,142507,4,True
+UC San Diego,2011,in_state,53115,4,True
+UC San Diego,2011,out_of_state,144627,4,True
+UC San Diego,2012,in_state,53445,4,True
+UC San Diego,2012,out_of_state,146787,4,True
+UC San Diego,2013,in_state,53873,4,True
+UC San Diego,2013,out_of_state,151019,4,True
+UC San Diego,2014,in_state,54620,4,True
+UC San Diego,2014,out_of_state,156902,4,True
+UC San Diego,2015,in_state,55360,4,True
+UC San Diego,2015,out_of_state,163756,4,True
+UC San Diego,2016,in_state,56245,4,True
+UC San Diego,2016,out_of_state,169687,4,True
+UC San Diego,2017,in_state,57248,4,True
+UC San Diego,2017,out_of_state,173762,4,True
+UC San Diego,2018,in_state,57930,4,True
+UC San Diego,2018,out_of_state,176184,4,True
+UC San Diego,2019,in_state,58669,4,True
+UC San Diego,2019,out_of_state,178003,4,True
+UC San Diego,2020,in_state,59519,4,True
+UC San Diego,2020,out_of_state,179876,4,True
+UC San Diego,2021,in_state,,3,True
+UC San Diego,2021,out_of_state,,3,True
+U Michigan,2000,in_state,28908,4,True
+U Michigan,2000,out_of_state,90110,4,True
+U Michigan,2001,in_state,30596,4,True
+U Michigan,2001,out_of_state,95814,4,True
+U Michigan,2002,in_state,32874,4,True
+U Michigan,2002,out_of_state,101770,4,True
+U Michigan,2003,in_state,35112,4,True
+U Michigan,2003,out_of_state,107536,4,True
+U Michigan,2004,in_state,37584,4,True
+U Michigan,2004,out_of_state,111890,4,True
+U Michigan,2005,in_state,40420,4,True
+U Michigan,2005,out_of_state,118932,4,True
+U Michigan,2006,in_state,42866,4,True
+U Michigan,2006,out_of_state,126268,4,True
+U Michigan,2007,in_state,44980,4,True
+U Michigan,2007,out_of_state,133138,4,True
+U Michigan,2008,in_state,47167,4,True
+U Michigan,2008,out_of_state,141789,4,True
+U Michigan,2009,in_state,49949,4,True
+U Michigan,2009,out_of_state,149216,4,True
+U Michigan,2010,in_state,52267,4,True
+U Michigan,2010,out_of_state,156090,4,True
+U Michigan,2011,in_state,54766,4,True
+U Michigan,2011,out_of_state,163466,4,True
+U Michigan,2012,in_state,56861,4,True
+U Michigan,2012,out_of_state,170686,4,True
+U Michigan,2013,in_state,58352,4,True
+U Michigan,2013,out_of_state,177194,4,True
+U Michigan,2014,in_state,60136,4,True
+U Michigan,2014,out_of_state,184525,4,True
+U Michigan,2015,in_state,62025,4,True
+U Michigan,2015,out_of_state,192230,4,True
+U Michigan,2016,in_state,63836,4,True
+U Michigan,2016,out_of_state,200225,4,True
+U Michigan,2017,in_state,65474,4,True
+U Michigan,2017,out_of_state,207318,4,True
+U Michigan,2018,in_state,66906,4,True
+U Michigan,2018,out_of_state,213273,4,True
+U Michigan,2019,in_state,68467,4,True
+U Michigan,2019,out_of_state,219464,4,True
+U Michigan,2020,in_state,70236,4,True
+U Michigan,2020,out_of_state,226574,4,True
+U Michigan,2021,in_state,,3,True
+U Michigan,2021,out_of_state,,3,True
+UCLA,2000,in_state,17981,4,True
+UCLA,2000,out_of_state,66253,4,True
+UCLA,2001,in_state,20866,4,True
+UCLA,2001,out_of_state,75480,4,True
+UCLA,2002,in_state,23135,4,True
+UCLA,2002,out_of_state,84500,4,True
+UCLA,2003,in_state,25432,4,True
+UCLA,2003,out_of_state,93102,4,True
+UCLA,2004,in_state,26777,4,True
+UCLA,2004,out_of_state,99730,4,True
+UCLA,2005,in_state,27742,4,True
+UCLA,2005,out_of_state,104347,4,True
+UCLA,2006,in_state,30149,4,True
+UCLA,2006,out_of_state,111651,4,True
+UCLA,2007,in_state,34408,4,True
+UCLA,2007,out_of_state,120105,4,True
+UCLA,2008,in_state,39929,4,True
+UCLA,2008,out_of_state,129011,4,True
+UCLA,2009,in_state,45070,4,True
+UCLA,2009,out_of_state,136422,4,True
+UCLA,2010,in_state,48856,4,True
+UCLA,2010,out_of_state,140369,4,True
+UCLA,2011,in_state,50780,4,True
+UCLA,2011,out_of_state,142292,4,True
+UCLA,2012,in_state,50857,4,True
+UCLA,2012,out_of_state,144199,4,True
+UCLA,2013,in_state,51085,4,True
+UCLA,2013,out_of_state,148231,4,True
+UCLA,2014,in_state,51649,4,True
+UCLA,2014,out_of_state,153931,4,True
+UCLA,2015,in_state,52170,4,True
+UCLA,2015,out_of_state,160566,4,True
+UCLA,2016,in_state,52647,4,True
+UCLA,2016,out_of_state,166089,4,True
+UCLA,2017,in_state,52976,4,True
+UCLA,2017,out_of_state,169490,4,True
+UCLA,2018,in_state,52973,4,True
+UCLA,2018,out_of_state,171227,4,True
+UCLA,2019,in_state,53148,4,True
+UCLA,2019,out_of_state,172482,4,True
+UCLA,2020,in_state,53655,4,True
+UCLA,2020,out_of_state,174012,4,True
+UCLA,2021,in_state,,3,True
+UCLA,2021,out_of_state,,3,True
+Purdue,2000,in_state,19476,4,True
+Purdue,2000,out_of_state,60676,4,True
+Purdue,2001,in_state,21696,4,True
+Purdue,2001,out_of_state,66472,4,True
+Purdue,2002,in_state,23990,4,True
+Purdue,2002,out_of_state,72424,4,True
+Purdue,2003,in_state,25506,4,True
+Purdue,2003,out_of_state,77430,4,True
+Purdue,2004,in_state,27062,4,True
+Purdue,2004,out_of_state,82014,4,True
+Purdue,2005,in_state,28720,4,True
+Purdue,2005,out_of_state,86538,4,True
+Purdue,2006,in_state,30900,4,True
+Purdue,2006,out_of_state,91832,4,True
+Purdue,2007,in_state,32874,4,True
+Purdue,2007,out_of_state,97188,4,True
+Purdue,2008,in_state,34936,4,True
+Purdue,2008,out_of_state,102610,4,True
+Purdue,2009,in_state,37086,4,True
+Purdue,2009,out_of_state,108088,4,True
+Purdue,2010,in_state,38440,4,True
+Purdue,2010,out_of_state,111764,4,True
+Purdue,2011,in_state,39372,4,True
+Purdue,2011,out_of_state,113946,4,True
+Purdue,2012,in_state,39896,4,True
+Purdue,2012,out_of_state,115104,4,True
+Purdue,2013,in_state,39998,4,True
+Purdue,2013,out_of_state,115206,4,True
+Purdue,2014,in_state,39998,4,True
+Purdue,2014,out_of_state,115206,4,True
+Purdue,2015,in_state,39988,4,True
+Purdue,2015,out_of_state,115196,4,True
+Purdue,2016,in_state,39978,4,True
+Purdue,2016,out_of_state,115186,4,True
+Purdue,2017,in_state,39968,4,True
+Purdue,2017,out_of_state,115176,4,True
+Purdue,2018,in_state,39968,4,True
+Purdue,2018,out_of_state,115176,4,True
+Purdue,2019,in_state,39968,4,True
+Purdue,2019,out_of_state,115176,4,True
+Purdue,2020,in_state,39968,4,True
+Purdue,2020,out_of_state,115176,4,True
+Purdue,2021,in_state,,3,True
+Purdue,2021,out_of_state,,3,True
+UW Madison,2000,in_state,17523,4,True
+UW Madison,2000,out_of_state,67718,4,True
+UW Madison,2001,in_state,19597,4,True
+UW Madison,2001,out_of_state,73394,4,True
+UW Madison,2002,in_state,21701,4,True
+UW Madison,2002,out_of_state,77702,4,True
+UW Madison,2003,in_state,24004,4,True
+UW Madison,2003,out_of_state,80004,4,True
+UW Madison,2004,in_state,26052,4,True
+UW Madison,2004,out_of_state,82302,4,True
+UW Madison,2005,in_state,27754,4,True
+UW Madison,2005,out_of_state,84254,4,True
+UW Madison,2006,in_state,29784,4,True
+UW Madison,2006,out_of_state,87033,4,True
+UW Madison,2007,in_state,32041,4,True
+UW Madison,2007,out_of_state,90540,4,True
+UW Madison,2008,in_state,34522,4,True
+UW Madison,2008,out_of_state,94521,4,True
+UW Madison,2009,in_state,37336,4,True
+UW Madison,2009,out_of_state,99335,4,True
+UW Madison,2010,in_state,39429,4,True
+UW Madison,2010,out_of_state,102929,4,True
+UW Madison,2011,in_state,40856,4,True
+UW Madison,2011,out_of_state,105356,4,True
+UW Madison,2012,in_state,41606,4,True
+UW Madison,2012,out_of_state,109606,4,True
+UW Madison,2013,in_state,41716,4,True
+UW Madison,2013,out_of_state,115716,4,True
+UW Madison,2014,in_state,41846,4,True
+UW Madison,2014,out_of_state,123846,4,True
+UW Madison,2015,in_state,41991,4,True
+UW Madison,2015,out_of_state,133991,4,True
+UW Madison,2016,in_state,42301,4,True
+UW Madison,2016,out_of_state,142111,4,True
+UW Madison,2017,in_state,42555,4,True
+UW Madison,2017,out_of_state,148003,4,True
+UW Madison,2018,in_state,42742,4,True
+UW Madison,2018,out_of_state,151828,4,True
+UW Madison,2019,in_state,42983,4,True
+UW Madison,2019,out_of_state,154450,4,True
+UW Madison,2020,in_state,43463,4,True
+UW Madison,2020,out_of_state,157268,4,True
+UW Madison,2021,in_state,,3,True
+UW Madison,2021,out_of_state,,3,True
