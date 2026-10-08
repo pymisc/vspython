@@ -14,3 +14,5 @@ pylint==4.0.6      # Used by linting action
 pytest-cov==7.1.0  # Used by coverage action
 checkov            # Used by security scanning and yaml linting action
 
+# --- for College fee application ---
+matplotlib
